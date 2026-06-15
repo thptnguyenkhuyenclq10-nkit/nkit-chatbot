@@ -7,11 +7,7 @@ const VERIFY_TOKEN = "nkit_chatbot_2025";
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
-const SCHOOL_DATA = `Bạn là trợ lý tư vấn thông minh của trang NKIT - THPT Nguyễn Khuyến, Phường Hòa Hưng, TP.HCM.
-Trang này là cộng đồng học Tin học và CNTT dành cho học sinh THPT Nguyễn Khuyến.
-Website: https://nkit.nguyenkhuyenhcm.edu.vn
-Hãy trả lời ngắn gọn, thân thiện, bằng tiếng Việt, phong cách Gen Z. Không quá 150 từ.
-Nếu không biết, hướng học sinh vào website NKIT hoặc liên hệ giáo viên Tin học.`;
+const SCHOOL_DATA = "Ban la tro ly tu van cua trang NKIT - THPT Nguyen Khuyen, Phuong Hoa Hung, TP.HCM. Trang nay la cong dong hoc Tin hoc va CNTT danh cho hoc sinh THPT Nguyen Khuyen. Website: https://nkit.nguyenkhuyenhcm.edu.vn. Hay tra loi ngan gon, than thien, bang tieng Viet, phong cach Gen Z. Khong qua 150 tu.";
 
 app.get("/webhook", (req, res) => {
   if (req.query["hub.verify_token"] === VERIFY_TOKEN) {
@@ -41,14 +37,14 @@ app.post("/webhook", async (req, res) => {
             },
             {
               headers: {
-                "Authorization": `Bearer ${GROQ_API_KEY}`,
+                "Authorization": "Bearer " + GROQ_API_KEY,
                 "Content-Type": "application/json"
               }
             }
           );
           const reply = aiRes.data.choices[0].message.content;
           await axios.post(
-            `https://graph.facebook.com/v19.0/me/messages?access_token=${PAGE_ACCESS_TOKEN}`,
+            "https://graph.facebook.com/v19.0/me/messages?access_token=" + PAGE_ACCESS_TOKEN,
             { recipient: { id: senderId }, message: { text: reply } }
           );
         } catch (e) {
@@ -62,8 +58,7 @@ app.post("/webhook", async (req, res) => {
   }
 });
 
-app.listen(3000, () => console.log("NKIT Chatbot running on
-
+app.listen(3000, () => console.log("NKIT Chatbot running on port 3000"));
 /* CODE NAY DUNG CHO API KEY CUA AI CLAUDE
 const express = require("express");
 const axios = require("axios");
