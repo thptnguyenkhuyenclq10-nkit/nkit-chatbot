@@ -1,0 +1,13 @@
+{
+  "name": "nkit-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot Messenger cho NKIT - THPT Nguyễn Khuyến",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
