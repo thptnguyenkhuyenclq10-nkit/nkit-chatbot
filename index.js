@@ -49,6 +49,9 @@ app.post("/webhook", async (req, res) => {
           );
         } catch (e) {
           console.error(e.message);
+          if (e.response && e.response.status === 429) {
+            await new Promise(r => setTimeout(r, 2000));
+          }
         }
       }
     }
