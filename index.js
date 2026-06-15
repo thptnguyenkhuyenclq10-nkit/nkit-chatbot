@@ -5,7 +5,7 @@ app.use(express.json());
 
 const VERIFY_TOKEN = "nkit_chatbot_2025";
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
 const SCHOOL_DATA = `Bạn là trợ lý tư vấn thông minh của trang NKIT - THPT Nguyễn Khuyến, Phường Hòa Hưng, TP.HCM.
 Trang này là cộng đồng học Tin học và CNTT dành cho học sinh THPT Nguyễn Khuyến.
@@ -31,27 +31,28 @@ app.post("/webhook", async (req, res) => {
         const userMsg = event.message.text;
         try {
           const aiRes = await axios.post(
-            `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`,
+            "https://api.groq.com/openai/v1/chat/completions",
             {
-              system_instruction: {
-                parts: [{ text: SCHOOL_DATA }]
-              },
-              contents: [
-                { role: "user", parts: [{ text: userMsg }] }
+              model: "llama3-8b-8192",
+              messages: [
+                { role: "system", content: SCHOOL_DATA },
+                { role: "user", content: userMsg }
               ]
             },
-            { headers: { "Content-Type": "application/json" } }
+            {
+              headers: {
+                "Authorization": `Bearer ${GROQ_API_KEY}`,
+                "Content-Type": "application/json"
+              }
+            }
           );
-          const reply = aiRes.data.candidates[0].content.parts[0].text;
+          const reply = aiRes.data.choices[0].message.content;
           await axios.post(
             `https://graph.facebook.com/v19.0/me/messages?access_token=${PAGE_ACCESS_TOKEN}`,
             { recipient: { id: senderId }, message: { text: reply } }
           );
         } catch (e) {
           console.error(e.message);
-          if (e.response && e.response.status === 429) {
-            await new Promise(r => setTimeout(r, 2000));
-          }
         }
       }
     }
@@ -61,7 +62,7 @@ app.post("/webhook", async (req, res) => {
   }
 });
 
-app.listen(3000, () => console.log("NKIT Chatbot running on port 3000"));
+app.listen(3000, () => console.log("NKIT Chatbot running on
 
 /* CODE NAY DUNG CHO API KEY CUA AI CLAUDE
 const express = require("express");
