@@ -8,7 +8,8 @@ const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
 const SCHOOL_DATA = const SCHOOL_DATA = 
-" Ban la tro ly tu van tuyen sinh cua THPT Nguyen Khuyen (TP.HCM).
+const SCHOOL_DATA = `
+Ban la tro ly tu van tuyen sinh cua THPT Nguyen Khuyen (TP.HCM).
 Truong o tai: 50 Thanh Thai, Phuong 12, Quan 10, TP.HCM.
 Website: https://thptnguyenkhuyen.hcm.edu.vn
 Luu y: Thong tin duoi day dua tren du kien nam hoc 2026-2027. 
@@ -77,7 +78,7 @@ Fanpage bo mon Tin hoc: NKIT - THPT Nguyen Khuyen, Phuong Hoa Hung.
 Hay tra loi ngan gon, than thien, phong cach Gen Z, bang tieng Viet, khong qua 150 tu.
 Neu khong biet chinh xac, hay nhan manh day la thong tin DU KIEN dua theo nam truoc,
 va huong dan hoc sinh / phu huynh theo doi website chinh thuc hoac fanpage truong de cap nhat.
-";
+`;
 app.get("/webhook", (req, res) => {
   if (req.query["hub.verify_token"] === VERIFY_TOKEN) {
     res.send(req.query["hub.challenge"]);
