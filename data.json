@@ -1,0 +1,104 @@
+{
+  "truong": {
+    "ten": "THPT Nguyễn Khuyến",
+    "dia_chi": "50 Thành Thái, Phường 12, Quận 10, TP.HCM",
+    "website": "https://thptnguyenkhuyen.hcm.edu.vn",
+    "fanpage_truong": "THPT Nguyễn Khuyến (chính thức của trường)",
+    "fanpage_tin_hoc": "NKIT - THPT Nguyễn Khuyến, Phường Hòa Hưng"
+  },
+  "chu_de": [
+    {
+      "ten": "XAC_NHAN_TRUNG_TUYEN",
+      "tieu_de": "Xác nhận trúng tuyển",
+      "noi_dung": "Học sinh phải xác nhận nộp hồ sơ trực tuyến tại http://ts10.hcm.edu.vn vào mục 'Tra cứu kết quả thi tuyển sinh 10' rồi đăng nhập. Thời hạn dự kiến: từ 18h00 ngày 26/6/2026 đến 16h00 ngày 01/7/2026. NẾU KHÔNG XÁC NHẬN đúng hạn = TỪ CHỐI quyền trúng tuyển!"
+    },
+    {
+      "ten": "LICH_NHAP_HOC",
+      "tieu_de": "Lịch nhập học lớp 10",
+      "noi_dung": "Lịch nhập học dự kiến năm học 2026-2027: Bước 1 (03/7/2026 từ 7h30): Xem danh sách trúng tuyển và mua hồ sơ tại Sảnh khu C. Bước 2 (04/7/2026 chiều): Tư vấn chọn môn tại Khu A - Ca 1: 13h30-14h30 (STT 01-315), Ca 2: 15h00-16h00 (STT 316-645 và diện tuyển thẳng). Bước 3 (05/7/2026 từ 7h00): Tư vấn chọn nhóm môn tại sân trường. Bước 4 (03-07/7/2026): Mua hồ sơ nhập học - Sáng 7h30-11h00, Chiều 13h00-16h00. Bước 5 (05-09/7/2026): Khai thông tin bắt buộc theo link QR trong thông báo của trường. Lưu ý: Học sinh chỉ đăng ký môn SAU khi nghe tư vấn."
+    },
+    {
+      "ten": "CHI_TIEU",
+      "tieu_de": "Chỉ tiêu tuyển sinh",
+      "noi_dung": "Chỉ tiêu dự kiến năm học 2026-2027: 675 học sinh."
+    },
+    {
+      "ten": "MON_HOC",
+      "tieu_de": "Môn học và tổ hợp",
+      "noi_dung": "Môn bắt buộc: Ngữ Văn, Toán, Lịch Sử, Tiếng Anh, GDQP&AN, GDTC, HĐTN&HN, GDKP. Có 6 nhóm môn lựa chọn: Nhóm 1: Lý-Hóa-Sinh-Tin, chuyên đề Toán-Lý-Hóa. Nhóm 2: Lý-Hóa-Địa-Tin, chuyên đề Toán-Lý-Hóa. Nhóm 3: Hóa-Sinh-Tin-Công nghệ trồng trọt, chuyên đề Toán-Hóa-Sinh. Nhóm 4: Lý-GDKTThPL-Tin-Công nghệ cơ khí, chuyên đề Toán-Lý-Tin. Nhóm 5: Địa-GDKTThPL-Tin-Công nghệ trồng trọt, chuyên đề Văn-Sử-Địa. Nhóm 6: Hóa-Địa-GDKTThPL-Tin, chuyên đề Toán-Hóa-Địa."
+    },
+    {
+      "ten": "CHUONG_TRINH",
+      "tieu_de": "Chương trình nhà trường",
+      "noi_dung": "Ngoài chương trình GDPT 2018, trường còn tổ chức: IELTS, STEM, Tiếng Trung, Kỹ năng sống, Âm nhạc (thanh nhạc, guitar, organ, trống), Mỹ thuật, Nhảy hiện đại."
+    },
+    {
+      "ten": "CLB",
+      "tieu_de": "CLB và hoạt động ngoại khóa",
+      "noi_dung": "Thể thao: Bóng Đá, Bóng Chuyền, Cầu Lông (có đội tuyển thi đấu thành phố). Văn nghệ & sáng tạo: UP NK's Media Club (truyền thông), CLB Win (nhiếp ảnh), CLB WOW (âm nhạc), CLB NAC (hội họa). Đoàn - Hội: Hội trại, Ngày hội CNTT, Halloween's Night, hoạt động theo tổ bộ môn. Trường còn có chương trình trao đổi học sinh và hội trại trưởng thành 18 tại Đà Lạt."
+    },
+    {
+      "ten": "CO_SO_VAT_CHAT",
+      "tieu_de": "Cơ sở vật chất",
+      "noi_dung": "Phòng máy tính, phòng lab chuyên dụng, thư viện điện tử. Wifi toàn trường dành cho học sinh. Sân thể thao (bóng đá, bóng chuyền, cầu lông). Căn tin bán trú với suất ăn đảm bảo chất lượng và dinh dưỡng. Bãi giữ xe cho học sinh."
+    },
+    {
+      "ten": "BAN_TRU",
+      "tieu_de": "Bán trú",
+      "noi_dung": "Trường có căn tin bán trú với nhiều món ăn đa dạng, hợp khẩu vị, giá cả phù hợp học sinh. Suất ăn được chuẩn bị kỹ lưỡng, đảm bảo chất lượng và dinh dưỡng."
+    },
+    {
+      "ten": "DONG_PHUC",
+      "tieu_de": "Đồng phục",
+      "noi_dung": "[Cập nhật sau] — Thầy/cô điền thông tin đồng phục chính khóa và đồng phục thể dục vào đây."
+    },
+    {
+      "ten": "HOC_PHI",
+      "tieu_de": "Học phí",
+      "noi_dung": "[Cập nhật sau] — Thầy/cô điền thông tin học phí và chính sách học bổng vào đây."
+    },
+    {
+      "ten": "THOI_GIAN_HOC",
+      "tieu_de": "Thời gian học",
+      "noi_dung": "[Cập nhật sau] — Thầy/cô điền giờ vào học, giờ tan học, học mấy buổi/ngày, có học thứ 7 không."
+    },
+    {
+      "ten": "NOI_QUY",
+      "tieu_de": "Nội quy học sinh",
+      "noi_dung": "[Cập nhật sau] — Thầy/cô điền nội quy về tác phong, đồng phục, điện thoại, khen thưởng kỷ luật."
+    }
+  ],
+  "qna": [
+    {
+      "cau_hoi": "Học ở trường có áp lực không?",
+      "tu_khoa": ["áp lực", "khó", "stress", "căng thẳng", "mệt"],
+      "tra_loi": "Học ở đâu cũng có áp lực bạn ơi, nhưng ở Nguyễn Khuyến thì có thầy cô nhiệt tình, bạn bè thân thiện, cộng thêm hàng chục CLB và hoạt động vui để xả stress! Áp lực có nhưng hoàn toàn xứng đáng và vượt qua được nha 💪"
+    },
+    {
+      "cau_hoi": "Trường có vui không?",
+      "tu_khoa": ["vui", "môi trường", "bạn bè", "thầy cô", "không khí"],
+      "tra_loi": "Vui lắm! Nguyễn Khuyến có rất nhiều hoạt động: Hội trại, Ngày hội CNTT, Halloween's Night, hội trại Đà Lạt... Bạn bè từ khắp nơi, thầy cô nhiệt tình. Học mà chơi, chơi mà học — chuẩn công thức NK đó! 😄"
+    },
+    {
+      "cau_hoi": "Tôi nên chọn nhóm môn nào?",
+      "tu_khoa": ["chọn môn", "nhóm nào", "tổ hợp", "ban nào", "định hướng"],
+      "tra_loi": "Tùy vào sở thích và định hướng nghề của bạn nha! Thích Tự nhiên → Nhóm 1, 2, 3, 4. Thích Xã hội → Nhóm 5, 6. Trường sẽ tổ chức tư vấn chọn môn vào ngày 04-05/7 để giúp bạn chọn đúng nhất! Đừng lo, cứ đến nghe tư vấn rồi quyết định 😊"
+    },
+    {
+      "cau_hoi": "Xác nhận trúng tuyển ở đâu?",
+      "tu_khoa": ["xác nhận", "trúng tuyển", "nộp hồ sơ online", "ts10"],
+      "tra_loi": "Bạn vào http://ts10.hcm.edu.vn → mục 'Tra cứu kết quả thi tuyển sinh 10' → đăng nhập để xác nhận. Hạn chót dự kiến 16h00 ngày 01/7/2026. Không xác nhận đúng hạn là mất quyền trúng tuyển luôn nha! ⚠️"
+    },
+    {
+      "cau_hoi": "Mua hồ sơ nhập học ở đâu?",
+      "tu_khoa": ["mua hồ sơ", "nhập học", "hồ sơ", "giấy tờ"],
+      "tra_loi": "Mua hồ sơ tại Sảnh khu C của trường từ ngày 03-07/7/2026. Sáng: 7h30-11h00, Chiều: 13h00-16h00. Nhớ xem danh sách trúng tuyển trước nha! 📋"
+    },
+    {
+      "cau_hoi": "Trường ở đâu?",
+      "tu_khoa": ["địa chỉ", "ở đâu", "đường nào", "quận"],
+      "tra_loi": "Trường THPT Nguyễn Khuyến ở tại 50 Thành Thái, Phường 12, Quận 10, TP.HCM nha! Ngay trung tâm thành phố, đi lại rất thuận tiện 📍"
+    }
+  ],
+  "cach_tra_loi": "Luôn trả lời bằng tiếng Việt có dấu, thân thiện, ngắn gọn, phong cách Gen Z, không quá 150 từ. TUYỆT ĐỐI KHÔNG nói 'trong văn bản bạn cung cấp' hay 'thông tin này không được đề cập'. Nếu không có thông tin, hãy nói tự nhiên: 'Cái này mình chưa có thông tin chính xác nha! Bạn liên hệ trực tiếp với trường hoặc theo dõi website/fanpage để cập nhật sớm nhất nhé 😊'. Thông tin lịch nhập học là DỰ KIẾN dựa theo năm trước."
+}
