@@ -7,7 +7,6 @@ const VERIFY_TOKEN = "nkit_chatbot_2025";
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
-const SCHOOL_DATA = const SCHOOL_DATA = 
 const SCHOOL_DATA = `
 Ban la tro ly tu van tuyen sinh cua THPT Nguyen Khuyen (TP.HCM).
 Truong o tai: 50 Thanh Thai, Phuong 12, Quan 10, TP.HCM.
