@@ -1,5 +1,6 @@
 const express = require("express");
 const axios = require("axios");
+const fs = require("fs");
 const app = express();
 app.use(express.json());
 
@@ -7,85 +8,48 @@ const VERIFY_TOKEN = "nkit_chatbot_2025";
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
-// Lưu lịch sử hội thoại theo từng người dùng (tối đa 5 tin nhắn gần nhất)
+// Lưu lịch sử hội thoại theo từng người dùng (tối đa 5 cặp gần nhất)
 const conversationHistory = {};
 const MAX_HISTORY = 5;
 
-const SCHOOL_DATA = `
-Bạn là trợ lý tư vấn tuyển sinh của THPT Nguyễn Khuyến (TP.HCM).
-Trường ở tại: 50 Thành Thái, Phường 12, Quận 10, TP.HCM.
-Website: https://thptnguyenkhuyen.hcm.edu.vn
-Lưu ý: Thông tin dưới đây dựa trên dự kiến năm học 2026-2027.
-Khi có thông báo chính thức, hãy kiểm tra website hoặc fanpage trường.
+// Đọc dữ liệu từ data.json và tạo SCHOOL_DATA
+function loadSchoolData() {
+  try {
+    const raw = fs.readFileSync("./data.json", "utf8");
+    const data = JSON.parse(raw);
 
-== XÁC NHẬN TRÚNG TUYỂN (QUAN TRỌNG) ==
-- Học sinh phải xác nhận nộp hồ sơ trực tuyến tại: http://ts10.hcm.edu.vn
-  vào mục "Tra cứu kết quả thi tuyển sinh 10" rồi đăng nhập.
-- Thời hạn dự kiến: từ 18h00 ngày 26/6/2026 đến 16h00 ngày 01/7/2026.
-- NẾU KHÔNG XÁC NHẬN đúng hạn = TỪ CHỐI quyền trúng tuyển!
+    let prompt = `Bạn là trợ lý tư vấn tuyển sinh của ${data.truong.ten} (TP.HCM).\n`;
+    prompt += `Địa chỉ: ${data.truong.dia_chi}\n`;
+    prompt += `Website: ${data.truong.website}\n`;
+    prompt += `Lưu ý: Thông tin dưới đây dựa trên dự kiến năm học 2026-2027. Khi có thông báo chính thức, hãy kiểm tra website hoặc fanpage trường.\n\n`;
 
-== LỊCH NHẬP HỌC LỚP 10 (DỰ KIẾN 2026-2027) ==
-- Bước 1 (03/7/2026, từ 7h30): Xem danh sách trúng tuyển và mua hồ sơ tại Sảnh khu C.
-- Bước 2 (04/7/2026 chiều): Tư vấn chọn môn tại các phòng học Khu A.
-  + Ca 1: 13h30-14h30 (số thứ tự 01-315)
-  + Ca 2: 15h00-16h00 (số thứ tự 316-645 + diện tuyển thẳng)
-- Bước 3 (05/7/2026 từ 7h00): Tư vấn chọn nhóm môn cho phụ huynh & học sinh tại sân trường
-  (50 Thành Thái, P.12, Q.10).
-- Bước 4 (03-07/7/2026): Mua hồ sơ nhập học tại trường.
-  + Sáng: 7h30 - 11h00
-  + Chiều: 13h00 - 16h00
-- Bước 5 (05-09/7/2026): Khai thông tin bắt buộc theo link QR trong thông báo của trường.
-Lưu ý: Học sinh chỉ đăng ký môn SAU khi nghe tư vấn.
-Nộp hồ sơ trực tiếp theo hướng dẫn trong bộ Hồ sơ tuyển sinh.
+    for (const cd of data.chu_de) {
+      prompt += `== ${cd.tieu_de.toUpperCase()} ==\n${cd.noi_dung}\n\n`;
+    }
 
-== CHỈ TIÊU & MÔN HỌC ==
-Chỉ tiêu dự kiến năm học 2026-2027: 675 học sinh.
-Môn bắt buộc: Ngữ Văn, Toán, Lịch Sử, Tiếng Anh, GDQP&AN, GDTC, HĐTN&HN, GDKP.
-Có 6 nhóm môn lựa chọn (học sinh chọn 1 nhóm phù hợp năng lực & định hướng nghề):
-- Nhóm 1: Lý - Hóa - Sinh - Tin | Chuyên đề: Toán - Lý - Hóa
-- Nhóm 2: Lý - Hóa - Địa - Tin | Chuyên đề: Toán - Lý - Hóa
-- Nhóm 3: Hóa - Sinh - Tin - Công nghệ (trồng trọt) | Chuyên đề: Toán - Hóa - Sinh
-- Nhóm 4: Lý - GDKTThPL - Tin - Công nghệ (cơ khí) | Chuyên đề: Toán - Lý - Tin
-- Nhóm 5: Địa - GDKTThPL - Tin - Công nghệ (trồng trọt) | Chuyên đề: Văn - Sử - Địa
-- Nhóm 6: Hóa - Địa - GDKTThPL - Tin | Chuyên đề: Toán - Hóa - Địa
+    prompt += `== CÂU HỎI THƯỜNG GẶP ==\n`;
+    for (const qa of data.qna) {
+      prompt += `Hỏi: ${qa.cau_hoi}\nTrả lời: ${qa.tra_loi}\n\n`;
+    }
 
-== CHƯƠNG TRÌNH NHÀ TRƯỜNG ==
-Ngoài chương trình GDPT 2018, trường còn tổ chức:
-IELTS, STEM, Tiếng Trung, Kỹ năng sống,
-Âm nhạc (thanh nhạc / guitar / organ / trống), Mỹ thuật, Nhảy hiện đại.
+    prompt += `== CÁCH TRẢ LỜI ==\n${data.cach_tra_loi}\n`;
 
-== CLB & HOẠT ĐỘNG NGOẠI KHÓA ==
-Thể thao: Bóng Đá, Bóng Chuyền, Cầu Lông (có đội tuyển thi đấu thành phố).
-Văn nghệ & sáng tạo: UP NK's Media Club (truyền thông), CLB Win (nhiếp ảnh),
-CLB WOW (âm nhạc), CLB NAC (hội họa).
-Đoàn - Hội: Hội trại, Ngày hội CNTT, Halloween's Night, hoạt động theo tổ bộ môn.
-Trường còn có: chương trình trao đổi học sinh, hội trại trưởng thành 18 tại Đà Lạt.
+    return prompt;
+  } catch (e) {
+    console.error("Lỗi đọc data.json:", e.message);
+    return "Bạn là trợ lý tư vấn của THPT Nguyễn Khuyến. Hãy trả lời thân thiện bằng tiếng Việt.";
+  }
+}
 
-== CƠ SỞ VẬT CHẤT ==
-- Phòng máy tính, phòng lab chuyên dụng, thư viện điện tử.
-- Wifi toàn trường dành cho học sinh.
-- Sân thể thao (bóng đá, bóng chuyền, cầu lông).
-- Căn tin bán trú: suất ăn đảm bảo chất lượng và dinh dưỡng.
-- Bãi giữ xe cho học sinh.
+// Tải dữ liệu lần đầu khi khởi động
+let SCHOOL_DATA = loadSchoolData();
+console.log("Đã tải dữ liệu từ data.json thành công!");
 
-== BÁN TRÚ ==
-Trường có căn tin bán trú với nhiều món ăn đa dạng, hợp khẩu vị, giá cả phù hợp học sinh.
-Suất ăn được chuẩn bị kỹ lưỡng, đảm bảo chất lượng và dinh dưỡng.
-
-== THÔNG TIN LIÊN HỆ ==
-Địa chỉ: 50 Thành Thái, Phường 12, Quận 10, TP.HCM.
-Website: https://thptnguyenkhuyen.hcm.edu.vn
-Fanpage: THPT Nguyễn Khuyến (chính thức của trường).
-Fanpage bộ môn Tin học: NKIT - THPT Nguyễn Khuyến, Phường Hòa Hưng.
-
-== CÁCH TRẢ LỜI ==
-- Luôn trả lời bằng tiếng Việt có dấu, thân thiện, ngắn gọn, phong cách Gen Z, không quá 150 từ.
-- TUYỆT ĐỐI KHÔNG nói "trong văn bản bạn cung cấp" hay "thông tin này không được đề cập" — nghe rất máy móc!
-- Bạn nhớ được lịch sử hội thoại, hãy dựa vào đó để trả lời câu hỏi tiếp nối tự nhiên.
-- Nếu được hỏi về cảm xúc, áp lực, bạn bè, môi trường học... hãy trả lời tích cực, đồng cảm như một người bạn thật sự. Ví dụ: hỏi "có áp lực không?" → trả lời rằng học ở đâu cũng có áp lực nhưng ở Nguyễn Khuyến có thầy cô nhiệt tình, bạn bè thân thiện, nhiều CLB và hoạt động vui để cân bằng, rất xứng đáng!
-- Nếu thực sự không có thông tin, hãy nói tự nhiên: "Cái này mình chưa có thông tin chính xác nha! Bạn liên hệ trực tiếp với trường hoặc theo dõi website/fanpage để cập nhật sớm nhất nhé 😊"
-- Thông tin lịch nhập học là DỰ KIẾN dựa theo năm trước, nhắc nhở học sinh/phụ huynh theo dõi thông báo chính thức của trường.
-`;
+// Tự động reload data.json mỗi 10 phút (không cần restart server)
+setInterval(() => {
+  SCHOOL_DATA = loadSchoolData();
+  console.log("Đã reload data.json:", new Date().toLocaleTimeString());
+}, 10 * 60 * 1000);
 
 app.get("/webhook", (req, res) => {
   if (req.query["hub.verify_token"] === VERIFY_TOKEN) {
@@ -104,18 +68,15 @@ app.post("/webhook", async (req, res) => {
         const senderId = event.sender.id;
         const userMsg = event.message.text;
 
-        // Khởi tạo lịch sử nếu người dùng mới
         if (!conversationHistory[senderId]) {
           conversationHistory[senderId] = [];
         }
 
-        // Thêm tin nhắn người dùng vào lịch sử
         conversationHistory[senderId].push({
           role: "user",
           content: userMsg
         });
 
-        // Giữ tối đa MAX_HISTORY cặp hội thoại (user + assistant)
         if (conversationHistory[senderId].length > MAX_HISTORY * 2) {
           conversationHistory[senderId] = conversationHistory[senderId].slice(-MAX_HISTORY * 2);
         }
@@ -124,7 +85,7 @@ app.post("/webhook", async (req, res) => {
           const aiRes = await axios.post(
             "https://api.groq.com/openai/v1/chat/completions",
             {
-              model: "llama-3.1-8b-instant",
+              model: "llama-3.3-70b-versatile",
               messages: [
                 { role: "system", content: SCHOOL_DATA },
                 ...conversationHistory[senderId]
@@ -140,7 +101,6 @@ app.post("/webhook", async (req, res) => {
 
           const reply = aiRes.data.choices[0].message.content;
 
-          // Lưu câu trả lời của AI vào lịch sử
           conversationHistory[senderId].push({
             role: "assistant",
             content: reply
