@@ -7,6 +7,10 @@ const VERIFY_TOKEN = "nkit_chatbot_2025";
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
+// Lưu lịch sử hội thoại theo từng người dùng (tối đa 5 tin nhắn gần nhất)
+const conversationHistory = {};
+const MAX_HISTORY = 5;
+
 const SCHOOL_DATA = `
 Bạn là trợ lý tư vấn tuyển sinh của THPT Nguyễn Khuyến (TP.HCM).
 Trường ở tại: 50 Thành Thái, Phường 12, Quận 10, TP.HCM.
@@ -77,10 +81,12 @@ Fanpage bộ môn Tin học: NKIT - THPT Nguyễn Khuyến, Phường Hòa Hưng
 == CÁCH TRẢ LỜI ==
 - Luôn trả lời bằng tiếng Việt có dấu, thân thiện, ngắn gọn, phong cách Gen Z, không quá 150 từ.
 - TUYỆT ĐỐI KHÔNG nói "trong văn bản bạn cung cấp" hay "thông tin này không được đề cập" — nghe rất máy móc!
+- Bạn nhớ được lịch sử hội thoại, hãy dựa vào đó để trả lời câu hỏi tiếp nối tự nhiên.
 - Nếu được hỏi về cảm xúc, áp lực, bạn bè, môi trường học... hãy trả lời tích cực, đồng cảm như một người bạn thật sự. Ví dụ: hỏi "có áp lực không?" → trả lời rằng học ở đâu cũng có áp lực nhưng ở Nguyễn Khuyến có thầy cô nhiệt tình, bạn bè thân thiện, nhiều CLB và hoạt động vui để cân bằng, rất xứng đáng!
 - Nếu thực sự không có thông tin, hãy nói tự nhiên: "Cái này mình chưa có thông tin chính xác nha! Bạn liên hệ trực tiếp với trường hoặc theo dõi website/fanpage để cập nhật sớm nhất nhé 😊"
 - Thông tin lịch nhập học là DỰ KIẾN dựa theo năm trước, nhắc nhở học sinh/phụ huynh theo dõi thông báo chính thức của trường.
 `;
+
 app.get("/webhook", (req, res) => {
   if (req.query["hub.verify_token"] === VERIFY_TOKEN) {
     res.send(req.query["hub.challenge"]);
@@ -97,6 +103,23 @@ app.post("/webhook", async (req, res) => {
       if (event.message && event.message.text) {
         const senderId = event.sender.id;
         const userMsg = event.message.text;
+
+        // Khởi tạo lịch sử nếu người dùng mới
+        if (!conversationHistory[senderId]) {
+          conversationHistory[senderId] = [];
+        }
+
+        // Thêm tin nhắn người dùng vào lịch sử
+        conversationHistory[senderId].push({
+          role: "user",
+          content: userMsg
+        });
+
+        // Giữ tối đa MAX_HISTORY cặp hội thoại (user + assistant)
+        if (conversationHistory[senderId].length > MAX_HISTORY * 2) {
+          conversationHistory[senderId] = conversationHistory[senderId].slice(-MAX_HISTORY * 2);
+        }
+
         try {
           const aiRes = await axios.post(
             "https://api.groq.com/openai/v1/chat/completions",
@@ -104,7 +127,7 @@ app.post("/webhook", async (req, res) => {
               model: "llama-3.1-8b-instant",
               messages: [
                 { role: "system", content: SCHOOL_DATA },
-                { role: "user", content: userMsg }
+                ...conversationHistory[senderId]
               ]
             },
             {
@@ -114,7 +137,15 @@ app.post("/webhook", async (req, res) => {
               }
             }
           );
+
           const reply = aiRes.data.choices[0].message.content;
+
+          // Lưu câu trả lời của AI vào lịch sử
+          conversationHistory[senderId].push({
+            role: "assistant",
+            content: reply
+          });
+
           await axios.post(
             "https://graph.facebook.com/v19.0/me/messages?access_token=" + PAGE_ACCESS_TOKEN,
             { recipient: { id: senderId }, message: { text: reply } }
@@ -131,6 +162,7 @@ app.post("/webhook", async (req, res) => {
 });
 
 app.listen(3000, () => console.log("NKIT Chatbot running on port 3000"));
+
 /* CODE NAY DUNG CHO API KEY CUA AI CLAUDE
 const express = require("express");
 const axios = require("axios");
