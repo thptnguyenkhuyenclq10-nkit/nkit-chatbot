@@ -1,0 +1,5049 @@
+{
+  "trung_tuyen": [
+    {
+      "stt": "01",
+      "ho_ten": "ĐẶNG TRẦN MINH AN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "02",
+      "ho_ten": "DƯƠNG THANH AN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "03",
+      "ho_ten": "HỒ LÊ THUÝ AN",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "04",
+      "ho_ten": "KIẾN GIA AN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "05",
+      "ho_ten": "LÊ THANH AN",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "06",
+      "ho_ten": "LÊ TRƯỜNG AN",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "07",
+      "ho_ten": "NGUYỄN HUỲNH PHÚC AN",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "08",
+      "ho_ten": "NGUYỄN LÊ HOÀI AN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "09",
+      "ho_ten": "NGUYỄN NGỌC XUÂN AN",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "10",
+      "ho_ten": "NGUYỄN TẠ THANH AN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "11",
+      "ho_ten": "PHẠM QUỐC AN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "12",
+      "ho_ten": "PHAN ĐỒNG ĐỨC AN",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "13",
+      "ho_ten": "TIÊU HỒNG BÌNH AN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "14",
+      "ho_ten": "VÕ HÀ AN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "15",
+      "ho_ten": "NGUYỄN HUỲNH MINH AN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "16",
+      "ho_ten": "TRẦN PHẠM MINH AN",
+      "truong_cuoi_cap": "THCS Đức Trí",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "17",
+      "ho_ten": "VŨ THIÊN AN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "18",
+      "ho_ten": "HOÀNG LÊ ÂN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "19",
+      "ho_ten": "NGUYỄN ĐẶNG THIÊN ÂN",
+      "truong_cuoi_cap": "THCS Cầu Kiệu",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "20",
+      "ho_ten": "NGUYỄN KỲ ÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "21",
+      "ho_ten": "NGUYỄN PHÚC HỒNG ÂN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "22",
+      "ho_ten": "PHẠM THIÊN ÂN",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "23",
+      "ho_ten": "TỪ GIA ÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "24",
+      "ho_ten": "BÙI LÊ QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "25",
+      "ho_ten": "CAO HẢI ANH",
+      "truong_cuoi_cap": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Trương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "26",
+      "ho_ten": "CHÂU DUY ANH",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "27",
+      "ho_ten": "ĐÀO NGỌC TRÂM ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "28",
+      "ho_ten": "ĐỖ NGUYỄN QUỐC ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "29",
+      "ho_ten": "ĐỖ THỊ PHƯƠNG ANH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "30",
+      "ho_ten": "ĐOÀN TIẾN ANH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "31",
+      "ho_ten": "LÊ NGỌC SONG ANH",
+      "truong_cuoi_cap": "THPT Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "32",
+      "ho_ten": "LÝ QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "33",
+      "ho_ten": "MAI CÔNG TUẤN ANH",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "34",
+      "ho_ten": "NGUYỄN ĐỖ MỘC ANH",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "35",
+      "ho_ten": "NGUYỄN HOÀNG ANH",
+      "truong_cuoi_cap": "TH, THCS Pennschool",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "36",
+      "ho_ten": "NGUYỄN HOÀNG GIA ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "37",
+      "ho_ten": "NGUYỄN HỒNG MỸ ANH",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "38",
+      "ho_ten": "NGUYỄN HUYỀN ANH",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "39",
+      "ho_ten": "NGUYỄN NGỌC LAN ANH",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "40",
+      "ho_ten": "NGUYỄN NGỌC MINH ANH",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "41",
+      "ho_ten": "NGUYỄN NGỌC PHƯƠNG ANH",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "42",
+      "ho_ten": "NGUYỄN QUỐC ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "43",
+      "ho_ten": "NGUYỄN QUỐC BẢO ANH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "44",
+      "ho_ten": "NGUYỄN THỤY XUÂN ANH",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "45",
+      "ho_ten": "NGUYỄN TRẦN QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "46",
+      "ho_ten": "NGUYỄN TUẤN ANH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "47",
+      "ho_ten": "NGUYỄN VÂN ANH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "48",
+      "ho_ten": "PHẠM BẢO ANH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "49",
+      "ho_ten": "PHẠM NGỌC QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "50",
+      "ho_ten": "PHẠM QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "51",
+      "ho_ten": "PHẠM THỊ TRÂM ANH",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "52",
+      "ho_ten": "TRẦN LÊ HỒNG ANH",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "53",
+      "ho_ten": "TRẦN LÊ TUẤN ANH",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "54",
+      "ho_ten": "TRẦN PHẠM TÚ ANH",
+      "truong_cuoi_cap": "THCS Bạch Đằng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "55",
+      "ho_ten": "TRẦN QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Hà Huy Tập",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "56",
+      "ho_ten": "TRẦN THỊ DIỆU ANH",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "57",
+      "ho_ten": "TRƯƠNG NGỌC QUỲNH ANH",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "58",
+      "ho_ten": "TRƯƠNG QUỐC ANH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "59",
+      "ho_ten": "TRƯƠNG VŨ YẾN ANH",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "60",
+      "ho_ten": "VÕ PHƯƠNG ANH",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "61",
+      "ho_ten": "VŨ HOÀNG NGỌC ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "62",
+      "ho_ten": "VŨ NGỌC THẢO ANH",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "63",
+      "ho_ten": "ĐỖ HÀ LÂM ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "64",
+      "ho_ten": "NGUYỄN HUY HÀ ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "65",
+      "ho_ten": "PHẠM VIỆT ANH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "66",
+      "ho_ten": "CHÂU MINH HOÀNG BÁCH",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "67",
+      "ho_ten": "NGUYỄN HỮU BÁCH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "68",
+      "ho_ten": "PHAN KHÁNH BĂNG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "69",
+      "ho_ten": "ĐỖ THÀNH GIA BẢO",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "70",
+      "ho_ten": "DƯ GIA BẢO",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "71",
+      "ho_ten": "DƯƠNG GIA BẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "72",
+      "ho_ten": "HỨA HUỲNH GIA BẢO",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "73",
+      "ho_ten": "HUỲNH GIA BẢO",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "74",
+      "ho_ten": "LÊ ĐINH GIA BẢO",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "75",
+      "ho_ten": "LƯ MINH BẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "76",
+      "ho_ten": "NGÔ GIA BẢO",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "77",
+      "ho_ten": "NGUYỄN HOÀNG BẢO",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "78",
+      "ho_ten": "NGUYỄN LÊ GIA BẢO",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "79",
+      "ho_ten": "NGUYỄN QUỐC BẢO",
+      "truong_cuoi_cap": "THCS Ngô Sĩ Liên",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "80",
+      "ho_ten": "NGUYỄN THANH GIA BẢO",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "81",
+      "ho_ten": "NGUYỄN TRƯƠNG HOÀNG BẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "82",
+      "ho_ten": "PHẠM THIÊN BẢO",
+      "truong_cuoi_cap": "THCS Nguyễn Hữu Thọ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "83",
+      "ho_ten": "PHÙNG HỒ GIA BẢO",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "84",
+      "ho_ten": "TRƯƠNG MINH BẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "85",
+      "ho_ten": "HOÀNG AN BẢO",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "86",
+      "ho_ten": "NGUYỄN THỊ NGỌC BÍCH",
+      "truong_cuoi_cap": "THCS Ba Đình",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "87",
+      "ho_ten": "NGUYỄN THỊ NGỌC BÍCH",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "88",
+      "ho_ten": "HUỲNH LÊ THIÊN BÌNH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "89",
+      "ho_ten": "QUÁN QUANG BÌNH",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "90",
+      "ho_ten": "LÝ TRUNG CANG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "91",
+      "ho_ten": "HUỲNH NGỌC BÍCH CHÂU",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "92",
+      "ho_ten": "LÊ NGỌC BẢO CHÂU",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "93",
+      "ho_ten": "LÊ NGỌC BẢO CHÂU",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "94",
+      "ho_ten": "LƯ NGỌC CHÂU",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "95",
+      "ho_ten": "NGUYỄN NGỌC BẢO CHÂU",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "96",
+      "ho_ten": "NGUYỄN NGỌC MINH CHÂU",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "97",
+      "ho_ten": "TẠ HOÀNG DIỄM CHÂU",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "98",
+      "ho_ten": "TRẦN DIỆP BẢO CHÂU",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "99",
+      "ho_ten": "TRẦN NGỌC BẢO CHÂU",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "100",
+      "ho_ten": "TRỊNH LÊ BẢO CHÂU",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "101",
+      "ho_ten": "ĐẶNG NGỌC MINH CHÂU",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "102",
+      "ho_ten": "NGÔ BẢO CHÂU",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "103",
+      "ho_ten": "LƯƠNG KIM CHI",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "104",
+      "ho_ten": "PHẠM NGỌC CHI",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "105",
+      "ho_ten": "THI DĨNH CHI",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "106",
+      "ho_ten": "TRỊNH HÀ CHI",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "107",
+      "ho_ten": "NGUYỄN NGUYÊN CHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "108",
+      "ho_ten": "CAO QUỐC CƯỜNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "109",
+      "ho_ten": "HUỲNH DIỆU CƯỜNG",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "110",
+      "ho_ten": "TRẦN HẢI CƯỜNG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "111",
+      "ho_ten": "TRƯƠNG VĨNH CƯỜNG",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "112",
+      "ho_ten": "NGÔ TRẦN LYNH ĐAN",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "113",
+      "ho_ten": "NGUYỄN NGỌC LINH ĐAN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "114",
+      "ho_ten": "PHẠM NGUYỄN LINH ĐAN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "115",
+      "ho_ten": "NGUYỄN HẢI ĐĂNG",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "116",
+      "ho_ten": "CHÂU TIẾN ĐẠT",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "117",
+      "ho_ten": "HỒ QUANG ĐẠT",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "118",
+      "ho_ten": "NGUYỄN MINH ĐẠT",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "119",
+      "ho_ten": "PHAN TIẾN ĐẠT",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "120",
+      "ho_ten": "SAE LEE THÀNH ĐẠT",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "121",
+      "ho_ten": "TRẦN TỔ BÁ ĐẠT",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "122",
+      "ho_ten": "VĂN MẪN ĐẠT",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "123",
+      "ho_ten": "VÕ THÀNH ĐẠT",
+      "truong_cuoi_cap": "THCS Ngô Tất Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "124",
+      "ho_ten": "HUỲNH TUẤN ĐẠT",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "125",
+      "ho_ten": "DIỆP KHIẾT DI",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "126",
+      "ho_ten": "HUỲNH THOẠI DI",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "127",
+      "ho_ten": "LU MỸ DI",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "128",
+      "ho_ten": "NGUYỄN HOÀNG THỤC DI",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "129",
+      "ho_ten": "NGUYỄN HOÀNG PHÚC ĐIỀN",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "130",
+      "ho_ten": "DƯƠNG KHẢ DOANH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "07/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "131",
+      "ho_ten": "LÊ NHÃ NGÔ ĐỒNG",
+      "truong_cuoi_cap": "THCS Hoàng Diệu",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "132",
+      "ho_ten": "ĐỖ HUỲNH ĐỨC",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "133",
+      "ho_ten": "MAI TIẾN DŨNG",
+      "truong_cuoi_cap": "THCS Ba Đình",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "134",
+      "ho_ten": "PHẠM MINH DŨNG",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "135",
+      "ho_ten": "ĐINH CÔNG TẤN DŨNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "136",
+      "ho_ten": "NGUYỄN THÁI THÙY DƯƠNG",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "137",
+      "ho_ten": "PHẠM HỮU NHẬT DƯƠNG",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "138",
+      "ho_ten": "NGUYỄN THÁI BÌNH DƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "139",
+      "ho_ten": "BÙI LÊ DUY",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "140",
+      "ho_ten": "BÙI TRỌNG DUY",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "141",
+      "ho_ten": "HUỲNH ĐĂNG DUY",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "142",
+      "ho_ten": "LÊ NGUYỄN ĐỨC DUY",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "143",
+      "ho_ten": "LÊ NGUYỄN TÂM DUY",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "144",
+      "ho_ten": "NGUYỄN HỒ BẢO DUY",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "145",
+      "ho_ten": "NGUYỄN PHÚC DUY",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "146",
+      "ho_ten": "TÔ QUỐC DUY",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "147",
+      "ho_ten": "TRẦN ANH DUY",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "148",
+      "ho_ten": "TRẦN THANH DUY",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "149",
+      "ho_ten": "VŨ HẢI DUY",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "150",
+      "ho_ten": "NGUYỄN NGỌC DUY",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "151",
+      "ho_ten": "TRẦN NGỌC ANH DUY",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "152",
+      "ho_ten": "NGUYỄN HOÀNG MỸ DUYÊN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "153",
+      "ho_ten": "HUỲNH PHÚC MINH GIANG",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "154",
+      "ho_ten": "NGUYỄN HUỲNH HƯƠNG GIANG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "155",
+      "ho_ten": "NGUYỄN NGỌC HƯƠNG GIANG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "156",
+      "ho_ten": "NGUYỄN PHẠM HƯƠNG GIANG",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "157",
+      "ho_ten": "NGUYỄN THỊ QUỲNH GIANG",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "158",
+      "ho_ten": "LÊ NGỌC HÀ",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "159",
+      "ho_ten": "LÊ NGUYỄN THÚY HÀ",
+      "truong_cuoi_cap": "THCS Thăng Long",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "160",
+      "ho_ten": "NGUYỄN DƯƠNG KHẢI HÀ",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "161",
+      "ho_ten": "PHẠM NGÔ THANH HÀ",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "162",
+      "ho_ten": "PHẠM NGUYỄN KHÁNH HÀ",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "163",
+      "ho_ten": "TĂNG KHÁNH HÀ",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "164",
+      "ho_ten": "VÕ HUỲNH THANH HÀ",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "165",
+      "ho_ten": "NGUYỄN THANH HÀ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "166",
+      "ho_ten": "PHAN LÊ VIỆT HÀ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "167",
+      "ho_ten": "PHAN VŨ TRƯỜNG HẢI",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "168",
+      "ho_ten": "TRẦN NHƯ HẢI",
+      "truong_cuoi_cap": "THCS Đức Trí",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "169",
+      "ho_ten": "ÂU SỞ HÂN",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "170",
+      "ho_ten": "BÀNH VŨ MINH HÂN",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "171",
+      "ho_ten": "ĐƯỜNG GIA HÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "172",
+      "ho_ten": "HOÀNG NGỌC GIA HÂN",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "173",
+      "ho_ten": "HUỲNH NGỌC BẢO HÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "174",
+      "ho_ten": "HUỲNH TRẦN NGỌC HÂN",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "175",
+      "ho_ten": "LÊ HOÀNG NGỌC HÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "176",
+      "ho_ten": "LÊ NGUYỄN BẢO HÂN",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "177",
+      "ho_ten": "LƯU GIA HÂN",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "178",
+      "ho_ten": "LỶ GIA HÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "179",
+      "ho_ten": "NGÔ THÙY GIA HÂN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "180",
+      "ho_ten": "NGUYỄN BẢO HÂN",
+      "truong_cuoi_cap": "THCS Ngô Sĩ Liên",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "181",
+      "ho_ten": "NGUYỄN ĐỖ BẢO HÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "182",
+      "ho_ten": "NGUYỄN GIA HÂN",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "183",
+      "ho_ten": "NGUYỄN LÊ GIA HÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "184",
+      "ho_ten": "NGUYỄN PHAN BẢO HÂN",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "185",
+      "ho_ten": "PHẠM GIA HÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "186",
+      "ho_ten": "PHẠM LA KHÁNH HÂN",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "187",
+      "ho_ten": "PHAN TUYÊN HÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "188",
+      "ho_ten": "TRẦN GIA HÂN",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "189",
+      "ho_ten": "TRẦN HÀ GIA HÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "190",
+      "ho_ten": "TRẦN NGỌC GIA HÂN",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "191",
+      "ho_ten": "TRẦN PHẠM GIA HÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "192",
+      "ho_ten": "TRẦN PHAN THANH HÂN",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "193",
+      "ho_ten": "VÕ NGUYỄN GIA HÂN",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "194",
+      "ho_ten": "LƯU GIA HÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "195",
+      "ho_ten": "PHẠM LÊ NGỌC HÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "196",
+      "ho_ten": "TRÀ NGỌC HÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "197",
+      "ho_ten": "DƯƠNG NGỌC THANH HẰNG",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "198",
+      "ho_ten": "HOÀNG NGỌC MINH HẰNG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "199",
+      "ho_ten": "LÂM VŨ MINH HẰNG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "200",
+      "ho_ten": "NGUYỄN LÊ THUÝ HẰNG",
+      "truong_cuoi_cap": "THCS Đồng Khởi",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "201",
+      "ho_ten": "LƯU PHƯƠNG HẠNH",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "202",
+      "ho_ten": "ÂU GIA HÀO",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "203",
+      "ho_ten": "ĐẶNG NGUYỄN GIA HÀO",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "204",
+      "ho_ten": "HÀ GIANG TUẤN HÀO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "205",
+      "ho_ten": "HOÀNG LÊ MINH ANH HÀO",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "206",
+      "ho_ten": "HUỲNH MINH HÀO",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "207",
+      "ho_ten": "LÊ GIA HÀO",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "208",
+      "ho_ten": "LỢI CHÍ HÀO",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "209",
+      "ho_ten": "NGŨ TẤN HÀO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "210",
+      "ho_ten": "TRẦN GIA HÀO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "211",
+      "ho_ten": "NGUYỄN ĐÌNH HÀO",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "212",
+      "ho_ten": "NGUYỄN THIÊN HẠO",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "213",
+      "ho_ten": "TRẦN KIM HIỀN",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "214",
+      "ho_ten": "CAO THẾ HIỂN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "215",
+      "ho_ten": "ĐẶNG VINH HIỂN",
+      "truong_cuoi_cap": "TH, THCS Pennschool",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "216",
+      "ho_ten": "ĐỖ MINH HIẾU",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "217",
+      "ho_ten": "NGUYỄN LÊ TRUNG HIẾU",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "218",
+      "ho_ten": "TRẦN MINH HIẾU",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "219",
+      "ho_ten": "PHAN THÁI HÒA",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "220",
+      "ho_ten": "NGÔ NHẬT HOÀN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "221",
+      "ho_ten": "SANH KIM HOÀN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "222",
+      "ho_ten": "NGUYỄN KIM TUẤN HOÀNG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "223",
+      "ho_ten": "PHẠM VIỆT HOÀNG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "224",
+      "ho_ten": "LÊ ĐOÀN KHÁNH HƯNG",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "225",
+      "ho_ten": "NGÔ GIA HƯNG",
+      "truong_cuoi_cap": "THCS Tân Thới Hòa",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "226",
+      "ho_ten": "NGUYỄN GIA HƯNG",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "227",
+      "ho_ten": "NGUYỄN HÀ MINH HƯNG",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "228",
+      "ho_ten": "NGUYỄN QUỐC HƯNG",
+      "truong_cuoi_cap": "THCS Cách Mạng Tháng Tám",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "229",
+      "ho_ten": "TRẦN KHÁNH HƯNG",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "230",
+      "ho_ten": "TRẦN KHÁNH HƯNG",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "231",
+      "ho_ten": "TRẦN LƯU ĐỨC HƯNG",
+      "truong_cuoi_cap": "THCS Mạch Kiếm Hùng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "232",
+      "ho_ten": "TỐNG TRƯƠNG GIA HƯNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "233",
+      "ho_ten": "TRỊNH ANH GIA HƯNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "234",
+      "ho_ten": "BÙI THIÊN HƯƠNG",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "235",
+      "ho_ten": "NGUYỄN NGỌC MAI HƯƠNG",
+      "truong_cuoi_cap": "THCS Kiến Thiết",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "236",
+      "ho_ten": "NGUYỄN NGỌC TRẦM HƯƠNG",
+      "truong_cuoi_cap": "THCS Kiến Thiết",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "237",
+      "ho_ten": "BÙI ĐỨC HUY",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "238",
+      "ho_ten": "BÙI NGUYỄN KHÁNH HUY",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "239",
+      "ho_ten": "ĐỖ MINH HUY",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "240",
+      "ho_ten": "HỒ MINH HUY",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "241",
+      "ho_ten": "LÊ GIA HUY",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "242",
+      "ho_ten": "LÊ GIA HUY",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "243",
+      "ho_ten": "NGUYỄN NGỌC GIA HUY",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "244",
+      "ho_ten": "NGUYỄN QUANG HUY",
+      "truong_cuoi_cap": "THCS Cách Mạng Tháng Tám",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "245",
+      "ho_ten": "NGUYỄN THANH HUY",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "246",
+      "ho_ten": "NGUYỄN THANH HUY",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "247",
+      "ho_ten": "PHẠM HẢI GIA HUY",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "248",
+      "ho_ten": "PHẠM TẤN HUY",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "249",
+      "ho_ten": "PHÙNG ANH HUY",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "250",
+      "ho_ten": "TỐNG GIA HUY",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "251",
+      "ho_ten": "VÕ QUỐC HUY",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "252",
+      "ho_ten": "LÊ AN HUY",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "253",
+      "ho_ten": "LÊ CÔNG HUY",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "254",
+      "ho_ten": "TRẦN HUY HUYỆN",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "255",
+      "ho_ten": "VÕ TRẦN PHÚC HY",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "256",
+      "ho_ten": "LÊ BÁ ĐINH KHA",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "257",
+      "ho_ten": "VŨ MINH KHA",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "258",
+      "ho_ten": "LƯƠNG CHÍ KHẢI",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "259",
+      "ho_ten": "NGUYỄN ĐỨC TUẤN KHẢI",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "260",
+      "ho_ten": "NGUYỄN DUY KHẢI",
+      "truong_cuoi_cap": "THCS Cách Mạng Tháng Tám",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "261",
+      "ho_ten": "PHẠM NHƯ KHẢI",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "262",
+      "ho_ten": "ĐOÀN QUANG KHẢI",
+      "truong_cuoi_cap": "Trường Trung học cơ sở và Trung học phổ thông Trí Đức",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "263",
+      "ho_ten": "HÀ MINH KHANG",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "264",
+      "ho_ten": "HÀ MINH KHANG",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "265",
+      "ho_ten": "HOÀNG GIA BẢO KHANG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "266",
+      "ho_ten": "HUỲNH ĐÌNH KHANG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "267",
+      "ho_ten": "HUỲNH LÊ PHÚC KHANG",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "268",
+      "ho_ten": "HUỲNH PHÚ KHANG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "269",
+      "ho_ten": "HUỲNH TRẦN NGUYÊN KHANG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "270",
+      "ho_ten": "LÊ DUY KHANG",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "271",
+      "ho_ten": "LÊ NGUYÊN KHANG",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "272",
+      "ho_ten": "LÝ QUỐC KHANG",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "273",
+      "ho_ten": "NGUYỄN KHANG",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "274",
+      "ho_ten": "NGUYỄN CẢNH TRƯỜNG KHANG",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "275",
+      "ho_ten": "NGUYỄN THÁI KHANG",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "276",
+      "ho_ten": "PHẠM DUY KHANG",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "277",
+      "ho_ten": "PHẠM MINH KHANG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "278",
+      "ho_ten": "PHẠM NGUYỄN BẢO KHANG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "279",
+      "ho_ten": "PHAN ĐẶNG MINH KHANG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "280",
+      "ho_ten": "THÁI GIA KHANG",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "281",
+      "ho_ten": "VÕ HOÀNG LÊ KHANG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "282",
+      "ho_ten": "VÕ MINH KHANG",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "283",
+      "ho_ten": "VÕ VĂN KHANG",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "284",
+      "ho_ten": "ĐINH NGUYỄN MINH KHANG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "285",
+      "ho_ten": "MÃ VỸ KHANG",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "286",
+      "ho_ten": "NGUYỄN QUỐC KHANG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "287",
+      "ho_ten": "ĐẶNG NGỌC LAN KHANH",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "288",
+      "ho_ten": "NGUYỄN TRẦN TUẤN KHANH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "289",
+      "ho_ten": "CAO AN KHÁNH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "290",
+      "ho_ten": "HUỲNH QUANG KHÁNH",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "291",
+      "ho_ten": "LÊ HÀ NGỌC KHÁNH",
+      "truong_cuoi_cap": "THCS Hai Bà Trưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "292",
+      "ho_ten": "LÊ PHẠM MINH KHÁNH",
+      "truong_cuoi_cap": "THCS Bạch Đằng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "293",
+      "ho_ten": "NGÔ MINH KHÁNH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "294",
+      "ho_ten": "NGUYỄN CÔNG KHÁNH",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "295",
+      "ho_ten": "NGUYỄN KIM KHÁNH",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "296",
+      "ho_ten": "NGUYỄN NGỌC MINH KHÁNH",
+      "truong_cuoi_cap": "THCS Ngô Sĩ Liên",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "297",
+      "ho_ten": "VŨ LÊ GIA KHÁNH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "298",
+      "ho_ten": "LƯƠNG LÂM HUY KHÁNH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "299",
+      "ho_ten": "TRẦN LAM KHÁNH",
+      "truong_cuoi_cap": "THCS Nguyễn Du Q1",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "300",
+      "ho_ten": "NGUYỄN GIA KHIÊM",
+      "truong_cuoi_cap": "THCS Nguyễn Thái Bình",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "301",
+      "ho_ten": "PHẠM GIA KHIÊM",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "302",
+      "ho_ten": "HUỲNH TẤN ANH KHOA",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "303",
+      "ho_ten": "LÊ ANH KHOA",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "304",
+      "ho_ten": "LÊ MINH KHOA",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "305",
+      "ho_ten": "NGUYỄN ANH KHOA",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "306",
+      "ho_ten": "NGUYỄN NHẬT KHOA",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "307",
+      "ho_ten": "PHẠM ĐĂNG KHOA",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "308",
+      "ho_ten": "TRẦN LÊ ANH KHOA",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "309",
+      "ho_ten": "VŨ MINH KHOA",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "310",
+      "ho_ten": "NGUYỄN ĐĂNG KHOA",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "311",
+      "ho_ten": "HUỲNH NGỌC ĐĂNG KHÔI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "312",
+      "ho_ten": "LÊ ANH KHÔI",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "313",
+      "ho_ten": "NGUYỄN ANH KHÔI",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "314",
+      "ho_ten": "NGUYỄN ANH KHÔI",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "315",
+      "ho_ten": "NGUYỄN ĐOÀN MINH KHÔI",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "316",
+      "ho_ten": "NGUYỄN DƯƠNG KHÔI",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "317",
+      "ho_ten": "NGUYỄN GIA KHÔI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "318",
+      "ho_ten": "NGUYỄN HOÀNG KHÔI",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "319",
+      "ho_ten": "NGUYỄN HOÀNG MINH KHÔI",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "320",
+      "ho_ten": "NGUYỄN MINH KHÔI",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "321",
+      "ho_ten": "NGUYỄN VIỆT KHÔI",
+      "truong_cuoi_cap": "THCS Tân Sơn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "322",
+      "ho_ten": "PHẠM LÊ MINH KHÔI",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "323",
+      "ho_ten": "TRẦN MINH KHÔI",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "324",
+      "ho_ten": "THÁI QUÝ KHỞI",
+      "truong_cuoi_cap": "THCS Khai Nguyên",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "325",
+      "ho_ten": "GIANG NGUYỄN THỤC KHUÊ",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "326",
+      "ho_ten": "PHẠM NGUYỄN XUÂN KHUÊ",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "327",
+      "ho_ten": "PHAN THỤY MINH KHUÊ",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "328",
+      "ho_ten": "TRẦN QUỲNH KHUÊ",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "329",
+      "ho_ten": "NGUYỄN HỒNG ANH KHUÊ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "330",
+      "ho_ten": "ĐỖ DUY KHƯƠNG",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "331",
+      "ho_ten": "LÊ NHẬT KHƯƠNG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "332",
+      "ho_ten": "LƯƠNG MINH KIÊN",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "333",
+      "ho_ten": "TRẦN TRIỀU KIỆN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "334",
+      "ho_ten": "LÂM TUẤN KIỆT",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "335",
+      "ho_ten": "TRẦN LỄ KIỆT",
+      "truong_cuoi_cap": "THCS Nguyễn Minh Hoàng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "336",
+      "ho_ten": "DƯƠNG KHẢI KIỆT",
+      "truong_cuoi_cap": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Vạn Hạnh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "337",
+      "ho_ten": "VÕ HOÀNG MỸ KIM",
+      "truong_cuoi_cap": "THCS Dương Bá Trạc",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "338",
+      "ho_ten": "NGUYỄN LÝ THƯ KỲ",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "339",
+      "ho_ten": "NGUYỄN MINH KỲ",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "340",
+      "ho_ten": "TRƯƠNG VĨNH KỲ",
+      "truong_cuoi_cap": "THCS Mạch Kiếm Hùng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "341",
+      "ho_ten": "HUỲNH VÕ HÀ LAM",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "342",
+      "ho_ten": "NGUYỄN BẢO LAM",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "343",
+      "ho_ten": "CHUNG KHẢ LÂM",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "344",
+      "ho_ten": "NGUYỄN TÙNG LÂM",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "345",
+      "ho_ten": "TRẦN VĂN DUY LÂM",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "346",
+      "ho_ten": "HUỲNH THỊ NGỌC LAN",
+      "truong_cuoi_cap": "THCS Dương Bá Trạc",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "347",
+      "ho_ten": "ĐẶNG PHƯỚC LẬP",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "348",
+      "ho_ten": "CHỐNG MỸ LỆ",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "349",
+      "ho_ten": "ĐOÀN NGỌC LINH",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "350",
+      "ho_ten": "HOÀNG ĐẶNG NGỌC LINH",
+      "truong_cuoi_cap": "THCS Đặng Trần Côn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "351",
+      "ho_ten": "LA MỸ LINH",
+      "truong_cuoi_cap": "THCS Phạm Đình Hổ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "352",
+      "ho_ten": "LƯ TRẦN KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "353",
+      "ho_ten": "NGUYỄN HIỂN LINH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "354",
+      "ho_ten": "NGUYỄN HOÀNG HẢI LINH",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "355",
+      "ho_ten": "NGUYỄN HOÀNG HẢI LINH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "356",
+      "ho_ten": "NGUYỄN HOÀNG KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "357",
+      "ho_ten": "NGUYỄN TRẦN KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "358",
+      "ho_ten": "PHAN KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "359",
+      "ho_ten": "QUÁCH NGỌC LINH",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "360",
+      "ho_ten": "TẠ KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Thăng Long",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "361",
+      "ho_ten": "TRẦN BỘI LINH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "362",
+      "ho_ten": "TRẦN KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "363",
+      "ho_ten": "TRẦN NGUYỆT LINH",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "364",
+      "ho_ten": "TRƯƠNG GIA LINH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "365",
+      "ho_ten": "VÕ NGỌC LINH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "366",
+      "ho_ten": "DƯƠNG GIA LINH",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "367",
+      "ho_ten": "LÊ HOÀNG KHÁNH LINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "368",
+      "ho_ten": "NGUYỄN LÊ HỒNG LINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "369",
+      "ho_ten": "NGUYỄN VƯƠNG HẠNH LINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "370",
+      "ho_ten": "VŨ THIÊN LỘC",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "371",
+      "ho_ten": "HỒ AN LỢI",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "372",
+      "ho_ten": "ĐÀO PHI LONG",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "373",
+      "ho_ten": "HÀNG NGUYỄN BẢO LONG",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "374",
+      "ho_ten": "NGUYỄN THÀNH LONG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "375",
+      "ho_ten": "TRẦN PHÚ LONG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "376",
+      "ho_ten": "VÕ HOÀNG LONG",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "377",
+      "ho_ten": "DƯƠNG VŨ NAM LONG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "378",
+      "ho_ten": "MAI LÊ HOÀNG LONG",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "379",
+      "ho_ten": "LƯU THÀNH LUÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "380",
+      "ho_ten": "ĐẶNG PHƯƠNG MAI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "381",
+      "ho_ten": "KHƯƠNG NGỌC MAI",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "382",
+      "ho_ten": "NGUYỄN HUỲNH PHƯƠNG MAI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "383",
+      "ho_ten": "TRẦN NGUYỄN HOÀNG MAI",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "384",
+      "ho_ten": "HUỲNH TUỆ MẪN",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "385",
+      "ho_ten": "NGUYỄN GIA MẪN",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "386",
+      "ho_ten": "NGUYỄN TÚ MẪN",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "387",
+      "ho_ten": "VƯƠNG LỆ MẪN",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "388",
+      "ho_ten": "NGUYỄN KẾ MẠNH",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "389",
+      "ho_ten": "TRẦN HỒ HÀ MI",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "390",
+      "ho_ten": "HỒ TẤN MINH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "391",
+      "ho_ten": "HUỲNH ANH MINH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "392",
+      "ho_ten": "HUỲNH QUANG MINH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "393",
+      "ho_ten": "TRỊNH HOÀNG THIỆN MINH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "394",
+      "ho_ten": "VŨ NHẬT BÌNH MINH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "395",
+      "ho_ten": "NGUYỄN THIỆN MINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "396",
+      "ho_ten": "NGUYỄN VŨ PHÚC MINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "397",
+      "ho_ten": "TẠ NGỌC PHƯƠNG MINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "398",
+      "ho_ten": "HOÀNG KHẢ MY",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "399",
+      "ho_ten": "HUỲNH TRẦN THẢO MY",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "400",
+      "ho_ten": "NGUYỄN HỒNG HẠNH MY",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "08/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "401",
+      "ho_ten": "NGUYỄN NGỌC KHỞI MY",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "402",
+      "ho_ten": "NGUYỄN Ý MY",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "403",
+      "ho_ten": "TRẦN KHỞI MY",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "404",
+      "ho_ten": "TRƯƠNG MỸ MỸ",
+      "truong_cuoi_cap": "Trường Trung học cơ sở, Trung học phổ thông Ngôi Sao",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "405",
+      "ho_ten": "CAO THANH NAM",
+      "truong_cuoi_cap": "THCS Ngô Sĩ Liên",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "406",
+      "ho_ten": "ĐỒNG CÔNG BẢO NAM",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "407",
+      "ho_ten": "DƯƠNG QUỐC NAM",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "408",
+      "ho_ten": "NGUYỄN TRIẾT NAM",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "409",
+      "ho_ten": "PHẠM BẢO NAM",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "410",
+      "ho_ten": "TẤT VĨNH NAM",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "411",
+      "ho_ten": "TRẦN LÂM KỲ NAM",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "412",
+      "ho_ten": "VÕ LÊ HOÀNG NAM",
+      "truong_cuoi_cap": "THCS Võ Văn Tần",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "413",
+      "ho_ten": "VƯƠNG BẢO NAM",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "414",
+      "ho_ten": "BÙI HỒNG NGÂN",
+      "truong_cuoi_cap": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Hoàng Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "415",
+      "ho_ten": "BÙI NGUYỄN THANH NGÂN",
+      "truong_cuoi_cap": "THCS Dương Bá Trạc",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "416",
+      "ho_ten": "CAO KIM NGÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "417",
+      "ho_ten": "DƯƠNG KHIẾT NGÂN",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "418",
+      "ho_ten": "HUỲNH NGỌC THANH NGÂN",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "419",
+      "ho_ten": "LÊ HỒ BẢO NGÂN",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "420",
+      "ho_ten": "MAI NGUYỄN BẢO NGÂN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "421",
+      "ho_ten": "NGUYỄN PHẠM KIM NGÂN",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "422",
+      "ho_ten": "PHẠM HOÀNG KIM NGÂN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "423",
+      "ho_ten": "TRẦN NGỌC KHÁNH NGÂN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "424",
+      "ho_ten": "TRẦN THỊ THANH NGÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "425",
+      "ho_ten": "BÙI MINH PHƯƠNG NGHI",
+      "truong_cuoi_cap": "THCS Tân Thông Hội",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "426",
+      "ho_ten": "HỒ UYÊN NGHI",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "427",
+      "ho_ten": "HOÀNG THỤY PHƯƠNG NGHI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "428",
+      "ho_ten": "KHƯU THỊ YẾN NGHI",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "429",
+      "ho_ten": "LONG UYỂN NGHI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "430",
+      "ho_ten": "NGUYỄN ĐỖ PHƯƠNG NGHI",
+      "truong_cuoi_cap": "THCS Võ Văn Tần",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "431",
+      "ho_ten": "NGUYỄN TƯỜNG NGHI",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "432",
+      "ho_ten": "PHAN BẢO NGHI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "433",
+      "ho_ten": "PHAN ĐẶNG PHƯƠNG NGHI",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "434",
+      "ho_ten": "TRẦN HÀO NGHI",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "435",
+      "ho_ten": "TRẦN NGUYỄN VÂN NGHI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "436",
+      "ho_ten": "TRƯƠNG QUANG TƯỜNG NGHI",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "437",
+      "ho_ten": "NGUYỄN HỒ PHÚC GIA NGHI",
+      "truong_cuoi_cap": "Trường Trung học cơ sở và Trung học phổ thông Trí Đức",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "438",
+      "ho_ten": "NGUYỄN TRẦN PHƯƠNG NGHI",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "439",
+      "ho_ten": "TRẦN NGỌC PHƯƠNG NGHI",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "440",
+      "ho_ten": "VÕ NGUYỄN THANH NGHỊ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "441",
+      "ho_ten": "ĐẶNG TRUNG NGHĨA",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "442",
+      "ho_ten": "HUỲNH TRUNG NGHĨA",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "443",
+      "ho_ten": "ĐINH THÁI BẢO NGỌC",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "444",
+      "ho_ten": "LÂM HÀ NHƯ NGỌC",
+      "truong_cuoi_cap": "THCS Bạch Đằng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "445",
+      "ho_ten": "LÊ HOÀNG YẾN NGỌC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "446",
+      "ho_ten": "LÊ MINH BẢO NGỌC",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "447",
+      "ho_ten": "LÊ PHẠM HỒNG NGỌC",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "448",
+      "ho_ten": "LÊ THANH NGỌC",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "449",
+      "ho_ten": "NGUYỄN HOÀNG TUẤN NGỌC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "450",
+      "ho_ten": "NGUYỄN THANH NGỌC",
+      "truong_cuoi_cap": "THCS Nguyễn Minh Hoàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "451",
+      "ho_ten": "NGUYỄN THỊ THANH NGỌC",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "452",
+      "ho_ten": "PHAN BẢO NGỌC",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "453",
+      "ho_ten": "TRẦN BẢO NGỌC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "454",
+      "ho_ten": "TRẦN XUÂN NGỌC",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "455",
+      "ho_ten": "VĂNG TRẦN NHƯ NGỌC",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "456",
+      "ho_ten": "VÕ THUỴ HỒNG NGỌC",
+      "truong_cuoi_cap": "THCS Hoàng Diệu",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "457",
+      "ho_ten": "HỒ BẢO NGỌC",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "458",
+      "ho_ten": "TRƯƠNG YẾN NGỌC",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "459",
+      "ho_ten": "ĐẶNG NGUYÊN",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "460",
+      "ho_ten": "ĐOÀN NGUYỄN THẢO NGUYÊN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "461",
+      "ho_ten": "HÀ GIA NGUYÊN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "462",
+      "ho_ten": "HỒ ĐĂNG NGUYÊN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "463",
+      "ho_ten": "LÊ NGUYỄN THẢO NGUYÊN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "464",
+      "ho_ten": "LÊ SỸ NGUYÊN",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "465",
+      "ho_ten": "NGUYỄN HOÀNG HẢI NGUYÊN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "466",
+      "ho_ten": "NGUYỄN KHOA NGUYÊN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "467",
+      "ho_ten": "NGUYỄN THỤC NGUYÊN",
+      "truong_cuoi_cap": "THCS Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "468",
+      "ho_ten": "TRẦN ĐĂNG KHÔI NGUYÊN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "469",
+      "ho_ten": "ĐÀO THANH NHÃ",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "470",
+      "ho_ten": "NGUYỄN BÁ Y NHÃ",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "471",
+      "ho_ten": "ĐẶNG TÂM NHÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "472",
+      "ho_ten": "LÊ THÀNH NHÂN",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "473",
+      "ho_ten": "NGUYỄN THIỆN NHÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "474",
+      "ho_ten": "TRẦN DOANH NHẤT",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "475",
+      "ho_ten": "NGUYỄN TRỊNH MINH NHẬT",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "476",
+      "ho_ten": "BÙI NGỌC BẢO NHI",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "477",
+      "ho_ten": "ĐẶNG NGỌC CHÂU NHI",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "478",
+      "ho_ten": "ĐOÀN LÂM THÚY NHI",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "479",
+      "ho_ten": "LÊ ĐẶNG THẢO NHI",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "480",
+      "ho_ten": "LÊ QUỲNH NHI",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "481",
+      "ho_ten": "NGUYỄN HUỲNH YẾN NHI",
+      "truong_cuoi_cap": "THCS Nguyễn Thái Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "482",
+      "ho_ten": "NGUYỄN NGỌC PHƯƠNG NHI",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "483",
+      "ho_ten": "NGUYỄN NGỌC QUỲNH NHI",
+      "truong_cuoi_cap": "THCS Khánh Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "484",
+      "ho_ten": "NGUYỄN PHẠM BẢO NHI",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "485",
+      "ho_ten": "NGUYỄN VŨ BẢO NHI",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "486",
+      "ho_ten": "PHAN NGUYỄN NGỌC NHI",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "487",
+      "ho_ten": "TRẦN TUYẾT NHI",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "488",
+      "ho_ten": "PHÙNG TRẦN UYỂN NHI",
+      "truong_cuoi_cap": "THCS Trần Văn Đang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "489",
+      "ho_ten": "VŨ NGỌC YẾN NHI",
+      "truong_cuoi_cap": "THCS Đức Trí",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "490",
+      "ho_ten": "NGUYỄN NGỌC MINH NHIÊN",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "491",
+      "ho_ten": "NGUYỄN QUỲNH NHIÊN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "492",
+      "ho_ten": "VƯƠNG NGUYỄN AN NHIÊN",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "493",
+      "ho_ten": "BÙI KHÁNH NHƯ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "494",
+      "ho_ten": "CHÂU NGỌC NHƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Minh Hoàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "495",
+      "ho_ten": "ĐOÀN NGỌC NHƯ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "496",
+      "ho_ten": "HÙNG TÂM NHƯ",
+      "truong_cuoi_cap": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Albert",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "497",
+      "ho_ten": "LA TRẦN PHÚC NHƯ",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "498",
+      "ho_ten": "LÊ TRẦN QUỲNH NHƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "499",
+      "ho_ten": "NGUYỄN NGỌC TÂM NHƯ",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "500",
+      "ho_ten": "NGUYỄN NGỌC THANH NHƯ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "501",
+      "ho_ten": "PHẠM QUỲNH NHƯ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "502",
+      "ho_ten": "PHAN KIỀU NHƯ",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "503",
+      "ho_ten": "TRẦN HOÀNG KHÁNH NHƯ",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "504",
+      "ho_ten": "TRỊNH NGỌC QUỲNH NHƯ",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "505",
+      "ho_ten": "VÕ HIỀN TUYẾT NHƯ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "506",
+      "ho_ten": "VÕ NGỌC TRÚC NHƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "507",
+      "ho_ten": "LÊ HÀ KHÁNH NHƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "508",
+      "ho_ten": "NGUYỄN HOÀI NGỌC NHUNG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "509",
+      "ho_ten": "CAO GIA PHÁT",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "510",
+      "ho_ten": "HÀ MINH PHÁT",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "511",
+      "ho_ten": "NGUYỄN TRỌNG PHÁT",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "512",
+      "ho_ten": "NGUYỄN TRƯỜNG PHÁT",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "513",
+      "ho_ten": "NGUYỄN TUẤN PHÁT",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "514",
+      "ho_ten": "NGUYỄN XUÂN HOÀNG PHÁT",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "515",
+      "ho_ten": "PHẠM TẤN PHÁT",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "516",
+      "ho_ten": "TRẦN ĐỨC PHÁT",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "517",
+      "ho_ten": "TRẦN HOÀNG PHÁT",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "518",
+      "ho_ten": "PHẠM LÊ MINH PHI",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "519",
+      "ho_ten": "BÙI XUÂN PHONG",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "520",
+      "ho_ten": "LÀI KHÁNH PHONG",
+      "truong_cuoi_cap": "THCS Phú Thọ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "521",
+      "ho_ten": "TRẦN CẨM PHONG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "522",
+      "ho_ten": "TRẦN ĐÌNH PHONG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "523",
+      "ho_ten": "TRẦN HỮU NAM PHONG",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "524",
+      "ho_ten": "TRẦN TRIỆU PHONG",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "525",
+      "ho_ten": "VĂN HIỂU PHONG",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "526",
+      "ho_ten": "LÊ NGUYÊN PHONG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "527",
+      "ho_ten": "CAO MINH PHÚ",
+      "truong_cuoi_cap": "THCS Cách Mạng Tháng Tám",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "528",
+      "ho_ten": "ĐINH GIA PHÚ",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "529",
+      "ho_ten": "LÊ NGUYỄN THANH PHÚ",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "530",
+      "ho_ten": "NGUYỄN ĐẠI PHÚ",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "531",
+      "ho_ten": "NGUYỄN HOÀI GIA PHÚ",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "532",
+      "ho_ten": "NGUYỄN MẬU QUỐC PHÚ",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "533",
+      "ho_ten": "VÕ VĂN SONG PHÚ",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "534",
+      "ho_ten": "VƯƠNG CƯỜNG PHÚ",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "535",
+      "ho_ten": "AN ĐÌNH PHÚC",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "536",
+      "ho_ten": "BÙI NGUYỄN HOÀNG PHÚC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "537",
+      "ho_ten": "ĐẶNG HỒNG PHÚC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "538",
+      "ho_ten": "ĐỖ HOÀNG PHÚC",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "539",
+      "ho_ten": "HUỲNH TRÍ PHÚC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "540",
+      "ho_ten": "NGUYỄN BẢO PHÚC",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "541",
+      "ho_ten": "NGUYỄN ĐĂNG PHÚC",
+      "truong_cuoi_cap": "THCS Mạch Kiếm Hùng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "542",
+      "ho_ten": "NGUYỄN GIA PHÚC",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "543",
+      "ho_ten": "NGUYỄN HÀ GIA PHÚC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "544",
+      "ho_ten": "NGUYỄN MINH PHÚC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "545",
+      "ho_ten": "PHẠM GIA PHÚC",
+      "truong_cuoi_cap": "THCS Cách Mạng Tháng Tám",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "546",
+      "ho_ten": "PHẠM LỘC PHÚC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "547",
+      "ho_ten": "TRẦN ĐẶNG NHƯ PHÚC",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "548",
+      "ho_ten": "VŨ THIÊN PHÚC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "549",
+      "ho_ten": "TRƯƠNG MINH PHÚC",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "550",
+      "ho_ten": "ĐẶNG KIM PHỤNG",
+      "truong_cuoi_cap": "Trường Trung học cơ sở và Trung học phổ thông Trần Cao Vân",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "551",
+      "ho_ten": "HUỲNH KIM PHỤNG",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "552",
+      "ho_ten": "NGUYỄN NGỌC HỮU PHƯỚC",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "553",
+      "ho_ten": "NGUYỄN NGỌC MINH PHƯỚC",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "554",
+      "ho_ten": "ĐINH NGỌC UYÊN PHƯƠNG",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "555",
+      "ho_ten": "ĐỖ NGỌC THANH PHƯƠNG",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "556",
+      "ho_ten": "HOÀNG KIM QUỲNH PHƯƠNG",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "557",
+      "ho_ten": "LÊ THÁI KHÁNH PHƯƠNG",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "558",
+      "ho_ten": "LƯƠNG NGUYỄN XUÂN PHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "559",
+      "ho_ten": "NGUYỄN HOÀNG PHƯƠNG",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "560",
+      "ho_ten": "NGUYỄN MAI PHƯƠNG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "561",
+      "ho_ten": "NGUYỄN MAI PHƯƠNG",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "562",
+      "ho_ten": "NGUYỄN MINH PHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "563",
+      "ho_ten": "PHẠM SONG PHƯƠNG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "564",
+      "ho_ten": "TRẦN NGUYỄN LAN PHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "565",
+      "ho_ten": "TRẦN NGUYỄN MINH PHƯƠNG",
+      "truong_cuoi_cap": "THCS Mạch Kiếm Hùng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "566",
+      "ho_ten": "TRẦN NGUYỄN YẾN PHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "567",
+      "ho_ten": "VÕ BÌNH PHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Thái Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "568",
+      "ho_ten": "NGUYỄN LAN PHƯƠNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "569",
+      "ho_ten": "BÙI MINH QUÂN",
+      "truong_cuoi_cap": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Quốc tế Á",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "570",
+      "ho_ten": "CÁP THANH QUÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "571",
+      "ho_ten": "HUỲNH MINH QUÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "572",
+      "ho_ten": "NGUYỄN ĐỖ MINH QUÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "573",
+      "ho_ten": "NGUYỄN ĐÔNG QUÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "574",
+      "ho_ten": "NGUYỄN HOÀNG QUÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "575",
+      "ho_ten": "NGUYỄN HOÀNG QUÂN",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "576",
+      "ho_ten": "NGUYỄN HOÀNG MINH QUÂN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "577",
+      "ho_ten": "NGUYỄN KHÁNH QUÂN",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "578",
+      "ho_ten": "NGUYỄN LÊ HOÀNG QUÂN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "579",
+      "ho_ten": "NGUYỄN MINH QUÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "580",
+      "ho_ten": "NGUYỄN NGHI TÚ QUÂN",
+      "truong_cuoi_cap": "THCS Ba Đình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "581",
+      "ho_ten": "TRẦN MINH QUÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "582",
+      "ho_ten": "NGUYỄN MINH QUANG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "583",
+      "ho_ten": "VŨ NHẬT QUANG",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "584",
+      "ho_ten": "LÂM THIÊN QUỐC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "585",
+      "ho_ten": "LƯU THANH GIA QUÝ",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "586",
+      "ho_ten": "ĐẶNG THỊ BÍCH QUYÊN",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "587",
+      "ho_ten": "DƯƠNG BẢO QUYÊN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "588",
+      "ho_ten": "NGUYỄN NGỌC BẢO QUYÊN",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "589",
+      "ho_ten": "NGUYỄN NGỌC TÚ QUYÊN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "590",
+      "ho_ten": "NGUYỄN TÚ QUYÊN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "591",
+      "ho_ten": "THI CHÍ QUYỀN",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "592",
+      "ho_ten": "ĐỖ NGỌC TÚ QUỲNH",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "593",
+      "ho_ten": "LƯU DIỄM QUỲNH",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "594",
+      "ho_ten": "NGUYỄN NGỌC TRÚC QUỲNH",
+      "truong_cuoi_cap": "THCS Hoàng Diệu",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "595",
+      "ho_ten": "PHẠM VŨ NHƯ QUỲNH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "596",
+      "ho_ten": "PHAN NGUYỄN HẢI QUỲNH",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "597",
+      "ho_ten": "TẠ SUNDAY ROSE",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "598",
+      "ho_ten": "ĐINH SAN SAN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "599",
+      "ho_ten": "NGUYỄN NGỌC LINH SAN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "600",
+      "ho_ten": "LÝ SANG SANG",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "601",
+      "ho_ten": "QUÁCH KIM SANG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "602",
+      "ho_ten": "ĐOÀN LONG SƠN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "603",
+      "ho_ten": "NGUYỄN LÊ SƠN",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "604",
+      "ho_ten": "TRẦN VŨ BẢO SƠN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "605",
+      "ho_ten": "LÊ THÀNH TÀI",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "606",
+      "ho_ten": "NGUYỄN THÀNH TÀI",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "607",
+      "ho_ten": "NGUYỄN THÀNH TÀI",
+      "truong_cuoi_cap": "THCS Lý Thường Kiệt",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "608",
+      "ho_ten": "ĐÀM KHAI TÂM",
+      "truong_cuoi_cap": "THCS Nguyễn Huệ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "609",
+      "ho_ten": "HÀ KIM TÂM",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "610",
+      "ho_ten": "HOÀNG ĐỨC TÂM",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "611",
+      "ho_ten": "LÊ ĐÌNH TÂM",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "612",
+      "ho_ten": "NGUYỄN ĐẮC THIÊN TÂM",
+      "truong_cuoi_cap": "THCS Ngô Quyền",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "613",
+      "ho_ten": "NGUYỄN HOÀNG MINH TÂM",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "614",
+      "ho_ten": "TRẦN ĐỨC TÂM",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "615",
+      "ho_ten": "TRẦN TRIỀU TÂM",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "616",
+      "ho_ten": "VÕ MINH TÂN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "617",
+      "ho_ten": "TRẦN MINH TẤN",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "618",
+      "ho_ten": "NGUYỄN LÊ MINH THÁI",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "619",
+      "ho_ten": "PHẠM TIẾN THĂNG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "620",
+      "ho_ten": "NGUYỄN BÁCH THẮNG",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "621",
+      "ho_ten": "NGUYỄN HỬU THẮNG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "622",
+      "ho_ten": "NGUYỄN TRẦN QUỐC THẮNG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "623",
+      "ho_ten": "PHẠM HỮU THẮNG",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "624",
+      "ho_ten": "LÂM THIÊN THANH",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "625",
+      "ho_ten": "NGUYỄN HOÀNG THIÊN THANH",
+      "truong_cuoi_cap": "THCS Ba Đình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "626",
+      "ho_ten": "NGUYỄN LÝ THANH THANH",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "627",
+      "ho_ten": "NGUYỄN NGỌC THANH",
+      "truong_cuoi_cap": "THCS Bạch Đằng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "628",
+      "ho_ten": "NGUYỄN UYÊN THANH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "629",
+      "ho_ten": "TRẦN NHẬT THANH",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "630",
+      "ho_ten": "TRẦN LÊ ĐAN THANH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "631",
+      "ho_ten": "ĐỖ HỢP THÀNH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "632",
+      "ho_ten": "NGUYỄN ĐỨC THÀNH",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "633",
+      "ho_ten": "NGUYỄN GIA THÀNH",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "634",
+      "ho_ten": "TRỊNH GIA THÀNH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "635",
+      "ho_ten": "VĂN KHẮC TRÍ THÀNH",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "636",
+      "ho_ten": "LÊ MAI PHƯƠNG THẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "637",
+      "ho_ten": "LÊ NGỌC BÍCH THẢO",
+      "truong_cuoi_cap": "THCS Bạch Đằng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "638",
+      "ho_ten": "NGUYỄN PHƯƠNG THẢO",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "639",
+      "ho_ten": "TRẦN NGUYỄN PHƯƠNG THẢO",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "640",
+      "ho_ten": "TRẦN THANH THIÊN THẢO",
+      "truong_cuoi_cap": "THCS Hai Bà Trưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "641",
+      "ho_ten": "PHẠM NGỌC GIA THI",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "642",
+      "ho_ten": "HÀNG HIỂU THIÊN",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "643",
+      "ho_ten": "HOÀNG BẢO THIÊN",
+      "truong_cuoi_cap": "THCS Nguyễn Thị Thập",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "644",
+      "ho_ten": "LÊ HỒ PHÚC THIÊN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "645",
+      "ho_ten": "NGUYỄN HOÀNG THIÊN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "646",
+      "ho_ten": "PHẠM VŨ THIÊN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "647",
+      "ho_ten": "LÊ ĐÀM MINH THIỆN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "648",
+      "ho_ten": "BÙI NGUYỄN HUY THỊNH",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "649",
+      "ho_ten": "LÊ BÁ THỊNH",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "650",
+      "ho_ten": "NGUYỄN HƯNG THỊNH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "651",
+      "ho_ten": "ĐOÀN NGỌC THY THƠ",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "652",
+      "ho_ten": "BÙI NGUYỄN PHƯỚC THỌ",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "653",
+      "ho_ten": "NGUYỄN MINH THÔNG",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "654",
+      "ho_ten": "NGUYỄN MINH THÔNG",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "655",
+      "ho_ten": "PHAN MINH THÔNG",
+      "truong_cuoi_cap": "THCS Phan Bội Châu",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "656",
+      "ho_ten": "SỲ DUY THÔNG",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "657",
+      "ho_ten": "LÊ MINH THỐNG",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "658",
+      "ho_ten": "BÙI NGỌC ĐĂNG THƯ",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "659",
+      "ho_ten": "HÀ ANH THƯ",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "660",
+      "ho_ten": "LÊ MINH THƯ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "661",
+      "ho_ten": "NGUYỄN HOÀNG ANH THƯ",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "662",
+      "ho_ten": "NGUYỄN HOÀNG ANH THƯ",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "663",
+      "ho_ten": "NGUYỄN MINH THƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "664",
+      "ho_ten": "NGUYỄN PHẠM MINH THƯ",
+      "truong_cuoi_cap": "THCS Đồng Khởi",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "665",
+      "ho_ten": "PHAN THIÊN MINH THƯ",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "666",
+      "ho_ten": "TẠ ANH THƯ",
+      "truong_cuoi_cap": "THCS Thăng Long",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "667",
+      "ho_ten": "TRẦN HỒ ANH THƯ",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "668",
+      "ho_ten": "TRẦN MINH THƯ",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "669",
+      "ho_ten": "VÕ ANH THƯ",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "670",
+      "ho_ten": "VÕ NGÔ KHÁNH THƯ",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "09/7/2026, buổi Chiều 15h00-16h00"
+    },
+    {
+      "stt": "671",
+      "ho_ten": "ĐẶNG MINH THƯ",
+      "truong_cuoi_cap": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Việt Úc",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "672",
+      "ho_ten": "NGÔ NGUYỄN ANH THƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "673",
+      "ho_ten": "NGUYỄN MINH THƯ",
+      "truong_cuoi_cap": "THCS Đồng Khởi",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "674",
+      "ho_ten": "TRỊNH KIM SONG THƯ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "675",
+      "ho_ten": "QUÁCH VĂN THUẬN",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "676",
+      "ho_ten": "TRẦN NGỌC THUẬN",
+      "truong_cuoi_cap": "THCS Phạm Ngọc Thạch",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "677",
+      "ho_ten": "NGUYỄN NGỌC HOÀI THƯƠNG",
+      "truong_cuoi_cap": "THCS Cách Mạng Tháng Tám",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "678",
+      "ho_ten": "VÕ PHƯỚC THIÊN THƯƠNG",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "679",
+      "ho_ten": "LÊ BẢO PHƯƠNG THÙY",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "680",
+      "ho_ten": "NGUYỄN MINH THÙY",
+      "truong_cuoi_cap": "THCS Nguyễn Huệ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "681",
+      "ho_ten": "ĐINH THỊ THỦY",
+      "truong_cuoi_cap": "THCS Trường Chinh",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "682",
+      "ho_ten": "NGUYỄN HOÀNG THANH THỦY",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "683",
+      "ho_ten": "NGUYỄN NGỌC HÀN THUYÊN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "684",
+      "ho_ten": "NGUYỄN TRẦN BẢO THY",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "685",
+      "ho_ten": "TÔ ÁI THY",
+      "truong_cuoi_cap": "THCS Kiến Thiết",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "686",
+      "ho_ten": "BÙI NGUYỄN CÁT TIÊN",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "687",
+      "ho_ten": "NGUYỄN THỦY TIÊN",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "688",
+      "ho_ten": "NGUYỄN ĐỨC TIẾN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "689",
+      "ho_ten": "PHẠM PHƯỚC TIẾN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "690",
+      "ho_ten": "TRƯƠNG MINH TIẾN",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "691",
+      "ho_ten": "HUỲNH THẾ TÍN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "692",
+      "ho_ten": "PHẠM TRUNG TÍN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "693",
+      "ho_ten": "TRẦN TRỌNG TÍN",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "694",
+      "ho_ten": "LƯU MINH TOÀN",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "695",
+      "ho_ten": "PHẠM GIA TOÀN",
+      "truong_cuoi_cap": "THCS Nguyễn Hiền",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "696",
+      "ho_ten": "VĂN CÔNG KHÁNH TOÀN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "697",
+      "ho_ten": "PHAN TRẦN THANH TRÀ",
+      "truong_cuoi_cap": "THCS Ba Đình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "698",
+      "ho_ten": "HOÀNG BẢO TRÂM",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "699",
+      "ho_ten": "LÊ NGUYỄN BẢO TRÂM",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "700",
+      "ho_ten": "PHAN THỊ LỆ TRÂM",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "701",
+      "ho_ten": "CHÂU HỒ BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "702",
+      "ho_ten": "ĐỖ NGỌC BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "703",
+      "ho_ten": "NGUYỄN BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "704",
+      "ho_ten": "NGUYỄN BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Hoàng Diệu",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "705",
+      "ho_ten": "NGUYỄN CHÂU BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Ba Đình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "706",
+      "ho_ten": "NGUYỄN ĐÀO BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "707",
+      "ho_ten": "NGUYỄN NGỌC BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "708",
+      "ho_ten": "PHẠM NGỌC THÁI TRÂN",
+      "truong_cuoi_cap": "THCS Lê Anh Xuân",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "709",
+      "ho_ten": "PHAN NGỌC BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "710",
+      "ho_ten": "TRẦN BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "711",
+      "ho_ten": "TRỊNH NGỌC BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "712",
+      "ho_ten": "PHẠM BẢO TRÂN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "713",
+      "ho_ten": "ĐỖ THUỲ TRANG",
+      "truong_cuoi_cap": "THCS Lê Quý Đôn",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "714",
+      "ho_ten": "MAI NGỌC PHƯƠNG TRANG",
+      "truong_cuoi_cap": "THCS Bạch Đằng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "715",
+      "ho_ten": "NGUYỄN LÊ THÙY TRANG",
+      "truong_cuoi_cap": "THCS Võ Văn Tần",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "716",
+      "ho_ten": "PHAN NGUYỄN THÙY TRANG",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "717",
+      "ho_ten": "THÂN NGỌC THÙY TRANG",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "718",
+      "ho_ten": "TRẦN PHẠM QUỲNH TRANG",
+      "truong_cuoi_cap": "THCS Phan Bội Châu",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "719",
+      "ho_ten": "TRẦN THỊ HẠNH TRANG",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "720",
+      "ho_ten": "TRẦN THỊ THU TRANG",
+      "truong_cuoi_cap": "THCS Mạch Kiếm Hùng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "721",
+      "ho_ten": "VÕ TƯỜNG VÂN TRANG",
+      "truong_cuoi_cap": "THCS Võ Văn Tần",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "722",
+      "ho_ten": "ÂU THIỆN TRÍ",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "723",
+      "ho_ten": "CÁP MINH TRÍ",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "724",
+      "ho_ten": "KHA TRẦN MINH TRÍ",
+      "truong_cuoi_cap": "THCS Trần Bội Cơ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "725",
+      "ho_ten": "LÊ ANH TRÍ",
+      "truong_cuoi_cap": "THCS Thăng Long",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "726",
+      "ho_ten": "LƯƠNG ĐỨC TRÍ",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "727",
+      "ho_ten": "NGUYỄN MINH TRÍ",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "728",
+      "ho_ten": "NGUYỄN NGỌC THIÊN TRÍ",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "729",
+      "ho_ten": "THÁI MINH TRÍ",
+      "truong_cuoi_cap": "THCS Lý Thánh Tông",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "730",
+      "ho_ten": "TRẦN PHẠM ĐÌNH TRÍ",
+      "truong_cuoi_cap": "THCS Phan Bội Châu",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "731",
+      "ho_ten": "VŨ MINH TRÍ",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "732",
+      "ho_ten": "ĐÀO CÔNG TRÍ",
+      "truong_cuoi_cap": "THCS Nguyễn Trãi",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "733",
+      "ho_ten": "ĐÀO MINH TRÍ",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "734",
+      "ho_ten": "LÊ MINH TRIẾT",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "735",
+      "ho_ten": "PHAN NHÃ TRIẾT",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "736",
+      "ho_ten": "LÝ NGỌC TRINH",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "737",
+      "ho_ten": "MAI THANH NGỌC TRINH",
+      "truong_cuoi_cap": "THCS Lương Thế Vinh",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "738",
+      "ho_ten": "NGUYỄN NGỌC KIỀU TRINH",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "739",
+      "ho_ten": "PHẠM PHÚ TRỌNG",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "740",
+      "ho_ten": "ĐỖ NGỌC BẢO TRÚC",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 7h30-9h30"
+    },
+    {
+      "stt": "741",
+      "ho_ten": "LƯ HOÀNG MỸ TRÚC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "742",
+      "ho_ten": "NGUYỄN LÊ THANH TRÚC",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "743",
+      "ho_ten": "NGUYỄN NGỌC THỦY TRÚC",
+      "truong_cuoi_cap": "THCS Ngô Sĩ Liên",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "744",
+      "ho_ten": "PHAN THANH TRÚC",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "745",
+      "ho_ten": "TRẦN BẢO TRÚC",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "746",
+      "ho_ten": "TRẦN THỊ THANH TRÚC",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "747",
+      "ho_ten": "NGUYỄN NGỌC TRÚC",
+      "truong_cuoi_cap": "THCS Nguyễn Trãi",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "748",
+      "ho_ten": "NGUYỄN TRUNG TRỰC",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "749",
+      "ho_ten": "TRẦN TRÍ TRUNG",
+      "truong_cuoi_cap": "THCS Nguyễn Minh Hoàng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "750",
+      "ho_ten": "TRỊNH QUANG TRƯỜNG",
+      "truong_cuoi_cap": "THCS Chu Văn An",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "751",
+      "ho_ten": "TRƯƠNG PHI TRƯỜNG",
+      "truong_cuoi_cap": "THCS Trần Văn Quang",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "752",
+      "ho_ten": "HUỲNH TUẤN TÚ",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "753",
+      "ho_ten": "LÊ HUỲNH ANH TÚ",
+      "truong_cuoi_cap": "THCS Thoại Ngọc Hầu",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "754",
+      "ho_ten": "NGUYỄN TRẦN MINH TÚ",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "755",
+      "ho_ten": "TRẦN THỦY TÚ",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "756",
+      "ho_ten": "NGUYỄN ANH TUẤN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "757",
+      "ho_ten": "TÀO MINH TUẤN",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "758",
+      "ho_ten": "TRẦN BẢO TUẤN",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "759",
+      "ho_ten": "NGUYỄN MINH TUỆ",
+      "truong_cuoi_cap": "THCS Âu Lạc",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "760",
+      "ho_ten": "NGUYỄN TĂNG MINH TUỆ",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "761",
+      "ho_ten": "NGUYỄN TĂNG NHẬT TUỆ",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "762",
+      "ho_ten": "PHÙNG NGỌC MINH TUỆ",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "763",
+      "ho_ten": "TRẦN GIA TUỆ",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "764",
+      "ho_ten": "VÕ PHÚC TUỆ",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "765",
+      "ho_ten": "HOÀNG DUY TÙNG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "766",
+      "ho_ten": "PHẠM QUANG TÙNG",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "767",
+      "ho_ten": "BÙI ĐỨC TÙNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "768",
+      "ho_ten": "NGUYỄN SƠN TÙNG",
+      "truong_cuoi_cap": "THCS Nguyễn Du Q1",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "769",
+      "ho_ten": "NGUYỄN ANH TƯỜNG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "770",
+      "ho_ten": "NGUYỄN VĨNH TƯỜNG",
+      "truong_cuoi_cap": "THCS Quang Trung",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "771",
+      "ho_ten": "PHẠM TRƯƠNG CÁT TƯỜNG",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "772",
+      "ho_ten": "VŨ DIỆP GIA TƯỜNG",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "773",
+      "ho_ten": "NGUYỄN LAM CÁT TƯỜNG",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "774",
+      "ho_ten": "PHẠM KIM TUYỀN",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "775",
+      "ho_ten": "TRẦN THỊ THANH TUYỀN",
+      "truong_cuoi_cap": "THCS Chánh Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "776",
+      "ho_ten": "CHÂU CƠ TUYẾT",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "777",
+      "ho_ten": "TĂNG CHÍ UY",
+      "truong_cuoi_cap": "THCS Nguyễn Huệ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "778",
+      "ho_ten": "LÊ HOÀNG BẢO UYÊN",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "779",
+      "ho_ten": "NGUYỄN HUỲNH HÀ UYÊN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "780",
+      "ho_ten": "NGUYỄN LÊ PHƯƠNG UYÊN",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "781",
+      "ho_ten": "NGUYỄN NGỌC PHƯƠNG UYÊN",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "782",
+      "ho_ten": "TRẦN ĐÌNH THẢO UYÊN",
+      "truong_cuoi_cap": "THCS Lữ Gia",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "783",
+      "ho_ten": "TRẦN LÊ NHÃ UYÊN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "784",
+      "ho_ten": "TRẦN NGỌC PHƯƠNG UYÊN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "785",
+      "ho_ten": "TRẦN NGỌC THẢO UYÊN",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "786",
+      "ho_ten": "ĐÀM TỊNH VÂN",
+      "truong_cuoi_cap": "THCS Phú Thọ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "787",
+      "ho_ten": "LƯƠNG THỊ HỒNG VÂN",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "788",
+      "ho_ten": "NGUYỄN KHÁNH VÂN",
+      "truong_cuoi_cap": "THCS Hồng Bàng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "789",
+      "ho_ten": "NGUYỄN QUỐC VĂN",
+      "truong_cuoi_cap": "THCS Hoàng Diệu",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "790",
+      "ho_ten": "CHÂU HOÀNG KIẾN VĂN",
+      "truong_cuoi_cap": "Trường Trung học cơ sở và Trung học phổ thông Trí Đức",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "791",
+      "ho_ten": "TRẦN NGUYỄN NGỌC VI",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "792",
+      "ho_ten": "VÕ NGỌC TƯỜNG VI",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "793",
+      "ho_ten": "NGUYỄN HOÀNG VIỆT",
+      "truong_cuoi_cap": "THCS Tân Bình",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "794",
+      "ho_ten": "NGUYỄN PHÚC VIỆT",
+      "truong_cuoi_cap": "THCS Bàn Cờ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "795",
+      "ho_ten": "VŨ QUỐC VIỆT",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "796",
+      "ho_ten": "ĐẶNG QUANG VINH",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "797",
+      "ho_ten": "HỒ QUANG VINH",
+      "truong_cuoi_cap": "Trung học thực hành Sài Gòn",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "798",
+      "ho_ten": "LÊ THẾ VINH",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "799",
+      "ho_ten": "NGÔ QUANG VINH",
+      "truong_cuoi_cap": "THCS Lê Lợi",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "800",
+      "ho_ten": "NGUYỄN PHÚC VINH",
+      "truong_cuoi_cap": "THCS Mạch Kiếm Hùng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "801",
+      "ho_ten": "NGUYỄN QUANG VINH",
+      "truong_cuoi_cap": "THCS Lạc Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "802",
+      "ho_ten": "PHAM THÀNH VINH",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "803",
+      "ho_ten": "TRẦN QUANG VINH",
+      "truong_cuoi_cap": "THCS Nguyễn Gia Thiều",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "804",
+      "ho_ten": "TRIỆU THẾ VINH",
+      "truong_cuoi_cap": "THCS Nguyễn Minh Hoàng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "805",
+      "ho_ten": "PHẠM NGỌC ĐĂNG VINH",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "806",
+      "ho_ten": "LÝ GIA KIM VŨ",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "807",
+      "ho_ten": "BÙI HOÀNG PHƯƠNG VY",
+      "truong_cuoi_cap": "THCS Colette",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "808",
+      "ho_ten": "HOÀNG LÊ AN VY",
+      "truong_cuoi_cap": "THCS Nguyễn Tri Phương",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "809",
+      "ho_ten": "NGUYỄN LÊ PHƯƠNG VY",
+      "truong_cuoi_cap": "THCS và THPT Sương Nguyệt Anh",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "810",
+      "ho_ten": "NGUYỄN NGỌC PHƯƠNG VY",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Sáng 9h30-11h00"
+    },
+    {
+      "stt": "811",
+      "ho_ten": "NGUYỄN PHƯƠNG VY",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "812",
+      "ho_ten": "NINH ĐOÀN KIỀU VY",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "813",
+      "ho_ten": "PHẠM MAI THANH VY",
+      "truong_cuoi_cap": "THCS Ngô Sĩ Liên",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "814",
+      "ho_ten": "PHẠM QUỲNH TƯỜNG VY",
+      "truong_cuoi_cap": "Trường trung học cơ sở Lê Tấn Bê",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "815",
+      "ho_ten": "TRẦN NGỌC YẾN VY",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "816",
+      "ho_ten": "TRẦN NGUYỄN THẢO VY",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "817",
+      "ho_ten": "VÕ HOÀNG TRÚC VY",
+      "truong_cuoi_cap": "THCS và THPT Diên Hồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "818",
+      "ho_ten": "VÕ NGỌC PHƯƠNG VY",
+      "truong_cuoi_cap": "THCS Lý Phong",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "819",
+      "ho_ten": "MAI NGUYỄN NHƯ Ý",
+      "truong_cuoi_cap": "THCS Đoàn Thị Điểm",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "820",
+      "ho_ten": "NGUYỄN LÂM THIÊN Ý",
+      "truong_cuoi_cap": "THCS Nguyễn Trãi",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "821",
+      "ho_ten": "VÕ NGỌC NHƯ Ý",
+      "truong_cuoi_cap": "THCS Kim Đồng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "822",
+      "ho_ten": "NGUYỄN HOÀNG BẢO YÊN",
+      "truong_cuoi_cap": "THCS Phan Sào Nam",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "823",
+      "ho_ten": "HỒNG NGUYỆT YẾN",
+      "truong_cuoi_cap": "THCS Lê Anh Xuân",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "824",
+      "ho_ten": "KHƯU HOÀNG YẾN",
+      "truong_cuoi_cap": "THCS Hậu Giang",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "825",
+      "ho_ten": "TRẦN BẢO YẾN",
+      "truong_cuoi_cap": "THCS Hòa Hưng",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "826",
+      "ho_ten": "TRẦN LỆ HẢI YẾN",
+      "truong_cuoi_cap": "THCS Trần Phú",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "827",
+      "ho_ten": "MAI DƯƠNG HẢI YẾN",
+      "truong_cuoi_cap": "THCS Nguyễn Văn Tố",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    },
+    {
+      "stt": "828",
+      "ho_ten": "TRIỆU BẢO YẾN",
+      "truong_cuoi_cap": "THCS Trần Danh Ninh",
+      "thoi_gian_nop_ho_so": "10/7/2026, buổi Chiều 13h30-15h00"
+    }
+  ],
+  "tuyen_thang": [
+    {
+      "stt": "TT01",
+      "ho_ten": "NGUYỄN TRẦN GIA BẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ"
+    },
+    {
+      "stt": "TT02",
+      "ho_ten": "LIÊU GIA BẢO",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ"
+    },
+    {
+      "stt": "TT03",
+      "ho_ten": "NGUYỄN MINH CHÂU",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ"
+    },
+    {
+      "stt": "TT04",
+      "ho_ten": "HÀ MINH ĐỨC",
+      "truong_cuoi_cap": "THCS Lạc Hồng"
+    },
+    {
+      "stt": "TT05",
+      "ho_ten": "VÕ THU GIANG",
+      "truong_cuoi_cap": "THCS Phú Thọ"
+    },
+    {
+      "stt": "TT06",
+      "ho_ten": "PHÙNG NGHỆ HIỀN",
+      "truong_cuoi_cap": "THCS Lạc Hồng"
+    },
+    {
+      "stt": "TT07",
+      "ho_ten": "TRẦN THẾ HƯNG",
+      "truong_cuoi_cap": "THCS Trần Phú"
+    },
+    {
+      "stt": "TT08",
+      "ho_ten": "ĐẶNG LÊ KHANG",
+      "truong_cuoi_cap": "THCS Hòa Hưng"
+    },
+    {
+      "stt": "TT09",
+      "ho_ten": "NGUYỄN PHÚC KHANG",
+      "truong_cuoi_cap": "THCS Lạc Hồng"
+    },
+    {
+      "stt": "TT10",
+      "ho_ten": "TRẦN HỒNG KIM",
+      "truong_cuoi_cap": "THCS Lạc Hồng"
+    },
+    {
+      "stt": "TT11",
+      "ho_ten": "LƯƠNG MỸ LỢI",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ"
+    },
+    {
+      "stt": "TT12",
+      "ho_ten": "LƯU THIÊN QUÂN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ"
+    },
+    {
+      "stt": "TT13",
+      "ho_ten": "TRẦN LÝ NGÂN TRANG",
+      "truong_cuoi_cap": "THCS Bàn Cờ"
+    },
+    {
+      "stt": "TT14",
+      "ho_ten": "NGUYỄN ANH TUẤN",
+      "truong_cuoi_cap": "THCS Hoàng Văn Thụ"
+    },
+    {
+      "stt": "TT15",
+      "ho_ten": "TRẦN LÊ MINH TÙNG",
+      "truong_cuoi_cap": "THCS Trần Phú"
+    }
+  ]
+}
