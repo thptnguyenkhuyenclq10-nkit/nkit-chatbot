@@ -57,44 +57,72 @@ function timHocSinhTheoTen(tenCanTim) {
   return ketQua;
 }
 
-// Nhận diện câu hỏi tra cứu STT và trích tên học sinh.
-// Cú pháp yêu cầu: "tra cứu: TÊN HỌC SINH" (để tránh đoán nhầm ý người dùng)
-function trichTenTuCauHoi(tinNhan) {
-  const match = tinNhan.match(/tra c[ứu]u[:\s]+(.+)/i);
+// Nhận diện ý định tra cứu STT dựa trên từ khóa (không đoán tên lỏng lẻo).
+function coYDinhTraCuu(tinNhan) {
+  const tuKhoa = [
+    "số thứ tự",
+    "stt",
+    "tra cứu",
+    "nộp hồ sơ lúc",
+    "thứ tự nộp",
+    "con tôi tên",
+    "em tên",
+    "con tên"
+  ];
+  const tinNhanLower = tinNhan.toLowerCase();
+  return tuKhoa.some((tk) => tinNhanLower.includes(tk));
+}
+
+// Trích tên học sinh CHỈ khi đúng cú pháp: "tra cứu: TÊN HỌC SINH"
+function trichTenDungCuPhap(tinNhan) {
+  const match = tinNhan.match(/tra c[ứu]u\s*:\s*(.+)/i);
   if (match) return match[1].trim();
   return null;
 }
 
+const HUONG_DAN_CU_PHAP = `Để tra số thứ tự nộp hồ sơ, bạn nhắn đúng cú pháp sau nhé:\n"tra cứu: Họ và tên học sinh"\n\nVí dụ: tra cứu: Nguyễn Văn A`;
+
 // Hàm xử lý chính: gọi hàm này TRƯỚC khi gọi Groq API.
 // Nếu trả về khác null, gửi thẳng kết quả này cho người dùng, KHÔNG cần gọi AI.
 function xuLyTraCuuSTT(tinNhanNguoiDung) {
-  const ten = trichTenTuCauHoi(tinNhanNguoiDung);
-  if (!ten) return null;
+  const ten = trichTenDungCuPhap(tinNhanNguoiDung);
 
-  const ketQua = timHocSinhTheoTen(ten);
+  // Trường hợp 1: đúng cú pháp "tra cứu: TÊN" -> tra cứu bình thường
+  if (ten) {
+    const ketQua = timHocSinhTheoTen(ten);
 
-  if (ketQua.length === 0) {
-    return `Xin lỗi, mình không tìm thấy học sinh tên "${ten}" trong danh sách trúng tuyển/tuyển thẳng lớp 10 năm học 2026-2027. Bạn kiểm tra lại chính tả họ tên (có dấu đầy đủ) giúp mình nhé, hoặc liên hệ trực tiếp Phòng Học vụ - Lầu 1, Khu C để được hỗ trợ.`;
-  }
-
-  if (ketQua.length === 1) {
-    const hs = ketQua[0];
-    if (hs.loai === "tuyen_thang") {
-      return `Em ${hs.ho_ten} (${hs.truong_cuoi_cap}) thuộc diện TUYỂN THẲNG, STT: ${hs.stt}. Diện tuyển thẳng có quy trình nộp hồ sơ riêng, phụ huynh vui lòng liên hệ trực tiếp trường để biết thời gian cụ thể nhé!`;
+    if (ketQua.length === 0) {
+      return `Xin lỗi, mình không tìm thấy học sinh tên "${ten}" trong danh sách trúng tuyển/tuyển thẳng lớp 10 năm học 2026-2027. Bạn kiểm tra lại chính tả họ tên (có dấu đầy đủ) giúp mình nhé, hoặc liên hệ trực tiếp Phòng Học vụ - Lầu 1, Khu C để được hỗ trợ.`;
     }
-    return `Em ${hs.ho_ten} (${hs.truong_cuoi_cap}) có STT: ${hs.stt}. Thời gian nộp hồ sơ: ${
-      hs.thoi_gian_nop_ho_so || "chưa xác định, vui lòng liên hệ trường"
-    }. Địa điểm: Phòng học Dãy A (từ 08-10/7) hoặc Phòng Học vụ - Lầu 1, Khu C (từ 13-15/7 nếu nộp trễ).`;
+
+    if (ketQua.length === 1) {
+      const hs = ketQua[0];
+      if (hs.loai === "tuyen_thang") {
+        return `Em ${hs.ho_ten} (${hs.truong_cuoi_cap}) thuộc diện TUYỂN THẲNG, STT: ${hs.stt}. Diện tuyển thẳng có quy trình nộp hồ sơ riêng, phụ huynh vui lòng liên hệ trực tiếp trường để biết thời gian cụ thể nhé!`;
+      }
+      return `Em ${hs.ho_ten} (${hs.truong_cuoi_cap}) có STT: ${hs.stt}. Thời gian nộp hồ sơ: ${
+        hs.thoi_gian_nop_ho_so || "chưa xác định, vui lòng liên hệ trường"
+      }. Địa điểm: Phòng học Dãy A (từ 08-10/7) hoặc Phòng Học vụ - Lầu 1, Khu C (từ 13-15/7 nếu nộp trễ).`;
+    }
+
+    // Trùng tên - liệt kê để phụ huynh tự chọn theo trường THCS
+    let phanHoi = `Mình tìm thấy ${ketQua.length} học sinh trùng tên "${ten}", bạn xem trường THCS nào đúng là con mình nhé:\n`;
+    ketQua.forEach((hs, i) => {
+      phanHoi += `${i + 1}. ${hs.ho_ten} - ${hs.truong_cuoi_cap} - STT: ${hs.stt}${
+        hs.thoi_gian_nop_ho_so ? " - " + hs.thoi_gian_nop_ho_so : ""
+      }\n`;
+    });
+    return phanHoi.trim();
   }
 
-  // Trùng tên - liệt kê để phụ huynh tự chọn theo trường THCS
-  let phanHoi = `Mình tìm thấy ${ketQua.length} học sinh trùng tên "${ten}", bạn xem trường THCS nào đúng là con mình nhé:\n`;
-  ketQua.forEach((hs, i) => {
-    phanHoi += `${i + 1}. ${hs.ho_ten} - ${hs.truong_cuoi_cap} - STT: ${hs.stt}${
-      hs.thoi_gian_nop_ho_so ? " - " + hs.thoi_gian_nop_ho_so : ""
-    }\n`;
-  });
-  return phanHoi.trim();
+  // Trường hợp 2: có ý định tra cứu (dùng từ khóa liên quan) nhưng SAI cú pháp
+  // -> hướng dẫn cách gõ đúng, không đoán tên, không gọi AI
+  if (coYDinhTraCuu(tinNhanNguoiDung)) {
+    return HUONG_DAN_CU_PHAP;
+  }
+
+  // Trường hợp 3: không liên quan gì đến tra cứu -> để AI xử lý bình thường
+  return null;
 }
 
 // ============================================================
