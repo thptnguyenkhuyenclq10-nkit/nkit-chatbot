@@ -1,26 +1,46 @@
 {
   "truong": {
     "ten": "THPT Nguyễn Khuyến",
-    "dia_chi": "50 Thành Thái, Phường 12, Quận 10, TP.HCM",
+    "dia_chi": "50 Thành Thái, Phường Hòa Hưng, TP. Hồ Chí Minh",
     "website": "https://thptnguyenkhuyen.hcm.edu.vn",
     "fanpage_truong": "THPT Nguyễn Khuyến (chính thức của trường)",
     "fanpage_tin_hoc": "NKIT - THPT Nguyễn Khuyến, Phường Hòa Hưng"
   },
   "chu_de": [
     {
-      "ten": "XAC_NHAN_TRUNG_TUYEN",
-      "tieu_de": "Xác nhận trúng tuyển",
-      "noi_dung": "Học sinh phải xác nhận nộp hồ sơ trực tuyến tại http://ts10.hcm.edu.vn vào mục 'Tra cứu kết quả thi tuyển sinh 10' rồi đăng nhập. Thời hạn dự kiến: từ 18h00 ngày 26/6/2026 đến 16h00 ngày 01/7/2026. NẾU KHÔNG XÁC NHẬN đúng hạn = TỪ CHỐI quyền trúng tuyển!"
+      "ten": "DIEM_CHUAN_2026",
+      "tieu_de": "Điểm chuẩn trúng tuyển lớp 10 năm học 2026-2027",
+      "noi_dung": "Điểm chuẩn trúng tuyển vào lớp 10 Trường THPT Nguyễn Khuyến năm học 2026-2027: Nguyện vọng 1: 20,75 điểm. Nguyện vọng 2: 21,75 điểm. Nguyện vọng 3: 22,00 điểm."
     },
     {
-      "ten": "LICH_NHAP_HOC",
-      "tieu_de": "Lịch nhập học lớp 10",
-      "noi_dung": "Lịch nhập học dự kiến năm học 2026-2027: Bước 1 (03/7/2026 từ 7h30): Xem danh sách trúng tuyển và mua hồ sơ tại Sảnh khu C. Bước 2 (04/7/2026 chiều): Tư vấn chọn môn tại Khu A - Ca 1: 13h30-14h30 (STT 01-315), Ca 2: 15h00-16h00 (STT 316-645 và diện tuyển thẳng). Bước 3 (05/7/2026 từ 7h00): Tư vấn chọn nhóm môn tại sân trường. Bước 4 (03-07/7/2026): Mua hồ sơ nhập học - Sáng 7h30-11h00, Chiều 13h00-16h00. Bước 5 (05-09/7/2026): Khai thông tin bắt buộc theo link QR trong thông báo của trường. Lưu ý: Học sinh chỉ đăng ký môn SAU khi nghe tư vấn."
+      "ten": "XAC_NHAN_NHAP_HOC_TRUC_TUYEN",
+      "tieu_de": "Xác nhận nhập học trực tuyến",
+      "noi_dung": "Cha mẹ học sinh (CMHS) thực hiện xác nhận nộp hồ sơ trực tuyến từ 15 giờ ngày 02/7/2026 đến trước 17 giờ ngày 15/7/2026 tại địa chỉ ts10.hcm.edu.vn, vào mục 'Tra cứu kết quả thi tuyển sinh 10' và đăng nhập. Sau khi xác nhận thành công, CMHS in phiếu xác nhận đăng ký nhập học. Lưu ý quan trọng: nếu CMHS và học sinh không xác nhận, hoặc đã xác nhận trực tuyến nhưng không hoàn thành thủ tục nhập học, học sinh sẽ bị loại khỏi danh sách trúng tuyển."
     },
     {
-      "ten": "CHI_TIEU",
-      "tieu_de": "Chỉ tiêu tuyển sinh",
-      "noi_dung": "Chỉ tiêu dự kiến năm học 2026-2027: 675 học sinh."
+      "ten": "HO_SO_NHAP_HOC",
+      "tieu_de": "Thành phần hồ sơ nhập học lớp 10",
+      "noi_dung": "Hồ sơ nhập học vào lớp 10 gồm: 1) Phiếu xác nhận đăng ký nhập học trực tuyến; 2) Phiếu đăng ký nhóm môn lựa chọn và chương trình nhà trường; 3) Lý lịch học sinh; 4) Đơn xin nhập học; 5) Giấy khai sinh (bản trích lục hoặc bản sao); 6) Đơn xin dự tuyển vào lớp 10 có ghi nguyện vọng ưu tiên; 7) Phiếu báo điểm tuyển sinh lớp 10; 8) Học bạ cấp THCS (bản photo); 9) Các giấy chứng nhận ưu tiên, giấy chứng nhận học sinh khuyết tật (nếu có, bản photo). Lưu ý: các loại hồ sơ để rời, xếp theo thứ tự, không bấm chung."
+    },
+    {
+      "ten": "LICH_NOP_HO_SO_CHI_TIET",
+      "tieu_de": "Lịch nộp hồ sơ trúng tuyển theo ngày và số thứ tự",
+      "noi_dung": "Thời gian làm việc: Sáng 7g30-11g00, Chiều 13g30-16g00. Địa điểm: Phòng học Dãy A (những ngày đầu), sau đó nộp hồ sơ còn lại tại Phòng Học vụ - Lầu 1, Khu C. Lịch cụ thể theo số thứ tự (STT) trúng tuyển: Ngày 07/7/2026: Sáng tư vấn tại sân trường; Chiều 13h30-15h00 (STT 1-70), Chiều 15h00-16h00 (STT 71-130). Ngày 08/7/2026: Sáng 7h30-9h30 (STT 131-200), Sáng 9h30-11h00 (STT 201-270), Chiều 13h30-15h00 (STT 271-340), Chiều 15h00-16h00 (STT 341-400). Ngày 09/7/2026: Sáng 7h30-9h30 (STT 401-470), Sáng 9h30-11h00 (STT 471-540), Chiều 13h30-15h00 (STT 541-610), Chiều 15h00-16h00 (STT 611-670). Ngày 10/7/2026: Sáng 7h30-9h30 (STT 671-740), Sáng 9h30-11h00 (STT 741-810), Chiều 13h30-15h00 (STT 811-828), Chiều 15h00-16h00 (hồ sơ học sinh hòa nhập). Từ 13/7 đến 15/7/2026 (sáng, chiều): nộp các hồ sơ chưa nộp của các buổi trước, tại Phòng Học vụ - Lầu 1, Khu C. Hạn cuối cùng: 17g00 ngày 15/7/2026."
+    },
+    {
+      "ten": "TIEN_DO_TUYEN_SINH_TONG_QUAT",
+      "tieu_de": "Tiến độ các mốc quan trọng tuyển sinh 10 năm 2026-2027",
+      "noi_dung": "Từ 15g00 ngày 02/7 đến 17g00 ngày 15/7/2026: CMHS xác nhận nhập học trực tuyến tại ts10.hcm.edu.vn. Ngày 06, 07, 08/7/2026: Phát hành hồ sơ tuyển sinh, CMHS mua hồ sơ tại Sảnh C (mang theo giấy xác nhận đăng ký nhập học). Ngày 06/7/2026: Học sinh tham gia buổi giới thiệu về trường và tư vấn chọn chương trình học theo Chương trình GDPT 2018 tại Khu A - Ca 1: 13g30-14g30 (STT 1-450), Ca 2: 15g00-16g00 (STT 451 trở lên). Ngày 07/7/2026 lúc 7g30: CMHS và học sinh tham gia buổi tư vấn chọn nhóm môn học tại sân trường. Ngày 08, 09, 10/7/2026: Nộp hồ sơ nhập học theo lịch STT. Từ 13/7 đến 15/7/2026: Thu hồ sơ còn lại. Ngày 16-17/7/2026: Nhà trường báo cáo tình hình học sinh nộp hồ sơ. Ngày 18/7/2026: Báo cáo nhu cầu tuyển bổ sung (nếu có). Ngày 12/8/2026: Xem danh sách xếp lớp tại sảnh Khu C. Từ 14/8-20/8/2026: Học sinh đăng ký bán trú."
+    },
+    {
+      "ten": "TU_VAN_CHON_MON_HOC",
+      "tieu_de": "Buổi tư vấn lựa chọn môn học lớp 10",
+      "noi_dung": "Trường tổ chức Buổi tư vấn lựa chọn môn học cho học sinh lớp 10 năm học 2026-2027 vào 7g30 sáng Thứ Ba, ngày 07/7/2026, tại Trường THPT Nguyễn Khuyến, 50 Thành Thái, Phường Hòa Hưng, TP.HCM. Cha mẹ học sinh và học sinh trúng tuyển vào lớp 10 năm học 2026-2027 đều được mời tham dự để được tư vấn chọn nhóm môn học và chương trình nhà trường theo Chương trình GDPT 2018."
+    },
+    {
+      "ten": "SO_LUONG_TRUNG_TUYEN",
+      "tieu_de": "Số lượng học sinh trúng tuyển năm 2026-2027",
+      "noi_dung": "Danh sách chính thức năm học 2026-2027 ghi nhận 828 học sinh trúng tuyển theo nguyện vọng và 15 học sinh thuộc diện tuyển thẳng."
     },
     {
       "ten": "MON_HOC",
@@ -45,7 +65,7 @@
     {
       "ten": "BAN_TRU",
       "tieu_de": "Bán trú",
-      "noi_dung": "Trường có căn tin bán trú với nhiều món ăn đa dạng, hợp khẩu vị, giá cả phù hợp học sinh. Suất ăn được chuẩn bị kỹ lưỡng, đảm bảo chất lượng và dinh dưỡng."
+      "noi_dung": "Trường có căn tin bán trú với nhiều món ăn đa dạng, hợp khẩu vị, giá cả phù hợp học sinh. Suất ăn được chuẩn bị kỹ lưỡng, đảm bảo chất lượng và dinh dưỡng. Học sinh đăng ký bán trú từ 14/8 đến 20/8/2026."
     },
     {
       "ten": "DONG_PHUC",
@@ -82,23 +102,38 @@
     {
       "cau_hoi": "Tôi nên chọn nhóm môn nào?",
       "tu_khoa": ["chọn môn", "nhóm nào", "tổ hợp", "ban nào", "định hướng"],
-      "tra_loi": "Tùy vào sở thích và định hướng nghề của bạn nha! Thích Tự nhiên → Nhóm 1, 2, 3, 4. Thích Xã hội → Nhóm 5, 6. Trường sẽ tổ chức tư vấn chọn môn vào ngày 04-05/7 để giúp bạn chọn đúng nhất! Đừng lo, cứ đến nghe tư vấn rồi quyết định 😊"
+      "tra_loi": "Tùy vào sở thích và định hướng nghề của bạn nha! Thích Tự nhiên → Nhóm 1, 2, 3, 4. Thích Xã hội → Nhóm 5, 6. Trường sẽ tổ chức buổi tư vấn chọn môn vào 7h30 sáng ngày 07/7/2026 để giúp bạn chọn đúng nhất! Đừng lo, cứ đến nghe tư vấn rồi quyết định 😊"
     },
     {
       "cau_hoi": "Xác nhận trúng tuyển ở đâu?",
       "tu_khoa": ["xác nhận", "trúng tuyển", "nộp hồ sơ online", "ts10"],
-      "tra_loi": "Bạn vào http://ts10.hcm.edu.vn → mục 'Tra cứu kết quả thi tuyển sinh 10' → đăng nhập để xác nhận. Hạn chót dự kiến 16h00 ngày 01/7/2026. Không xác nhận đúng hạn là mất quyền trúng tuyển luôn nha! ⚠️"
+      "tra_loi": "Bạn vào ts10.hcm.edu.vn → mục 'Tra cứu kết quả thi tuyển sinh 10' → đăng nhập để xác nhận. Thời gian: từ 15h00 ngày 02/7/2026 đến trước 17h00 ngày 15/7/2026. Không xác nhận đúng hạn hoặc xác nhận rồi mà không hoàn tất thủ tục nhập học là bị loại khỏi danh sách trúng tuyển luôn nha! ⚠️"
     },
     {
       "cau_hoi": "Mua hồ sơ nhập học ở đâu?",
       "tu_khoa": ["mua hồ sơ", "nhập học", "hồ sơ", "giấy tờ"],
-      "tra_loi": "Mua hồ sơ tại Sảnh khu C của trường từ ngày 03-07/7/2026. Sáng: 7h30-11h00, Chiều: 13h00-16h00. Nhớ xem danh sách trúng tuyển trước nha! 📋"
+      "tra_loi": "Mua hồ sơ tại Sảnh C của trường vào các ngày 06, 07, 08/7/2026 nha, nhớ mang theo giấy xác nhận đăng ký nhập học trực tuyến. Còn nộp hồ sơ thì theo đúng số thứ tự (STT) và khung giờ quy định từ 07-10/7/2026 đó 📋"
     },
     {
       "cau_hoi": "Trường ở đâu?",
       "tu_khoa": ["địa chỉ", "ở đâu", "đường nào", "quận"],
-      "tra_loi": "Trường THPT Nguyễn Khuyến ở tại 50 Thành Thái, Phường 12, Quận 10, TP.HCM nha! Ngay trung tâm thành phố, đi lại rất thuận tiện 📍"
+      "tra_loi": "Trường THPT Nguyễn Khuyến ở tại 50 Thành Thái, Phường Hòa Hưng, TP. Hồ Chí Minh nha! Ngay trung tâm thành phố, đi lại rất thuận tiện 📍"
+    },
+    {
+      "cau_hoi": "Điểm chuẩn vào lớp 10 trường Nguyễn Khuyến năm nay là bao nhiêu?",
+      "tu_khoa": ["điểm chuẩn", "điểm trúng tuyển", "diem chuan"],
+      "tra_loi": "Điểm chuẩn trúng tuyển lớp 10 năm học 2026-2027 của trường là: NV1: 20,75 điểm, NV2: 21,75 điểm, NV3: 22,00 điểm nha! 📌"
+    },
+    {
+      "cau_hoi": "Hồ sơ nhập học lớp 10 cần những gì?",
+      "tu_khoa": ["hồ sơ", "giấy tờ", "nhập học", "ho so"],
+      "tra_loi": "Hồ sơ nhập học gồm 9 loại: phiếu xác nhận đăng ký nhập học trực tuyến, phiếu đăng ký nhóm môn lựa chọn, lý lịch học sinh, đơn xin nhập học, giấy khai sinh, đơn xin dự tuyển ghi nguyện vọng ưu tiên, phiếu báo điểm tuyển sinh 10, học bạ THCS (bản photo), và giấy chứng nhận ưu tiên/khuyết tật nếu có. Nhớ để hồ sơ rời, không bấm chung nha!"
+    },
+    {
+      "cau_hoi": "Hạn chót nộp hồ sơ nhập học là khi nào?",
+      "tu_khoa": ["hạn chót", "hạn cuối", "deadline", "han chot"],
+      "tra_loi": "Hạn cuối cùng để nộp hồ sơ là 17h00 ngày 15/7/2026 nha, nộp tại Phòng Học vụ - Lầu 1, Khu C nếu chưa nộp kịp theo lịch STT trước đó."
     }
   ],
-  "cach_tra_loi": "Luôn trả lời bằng tiếng Việt có dấu, thân thiện, ngắn gọn, phong cách Gen Z, không quá 150 từ. TUYỆT ĐỐI KHÔNG nói 'trong văn bản bạn cung cấp' hay 'thông tin này không được đề cập'. Nếu không có thông tin, hãy nói tự nhiên: 'Cái này mình chưa có thông tin chính xác nha! Bạn liên hệ trực tiếp với trường hoặc theo dõi website/fanpage để cập nhật sớm nhất nhé 😊'. Thông tin lịch nhập học là DỰ KIẾN dựa theo năm trước. Luôn tự giới thiệu là trợ lý ảo AI của trường ngay từ câu chào đầu tiên, ví dụ: "Chào bạn! Mình là trợ lý ảo AI hỗ trợ tư vấn tuyển sinh của trường THPT Nguyễn Khuyến." Không giả vờ là con người thật."
+  "cach_tra_loi": "Luôn trả lời bằng tiếng Việt có dấu, thân thiện, ngắn gọn, phong cách Gen Z, không quá 150 từ. TUYỆT ĐỐI KHÔNG nói 'trong văn bản bạn cung cấp' hay 'thông tin này không được đề cập'. Nếu không có thông tin, hãy nói tự nhiên: 'Cái này mình chưa có thông tin chính xác nha! Bạn liên hệ trực tiếp với trường hoặc theo dõi website/fanpage để cập nhật sớm nhất nhé 😊'. TUYỆT ĐỐI KHÔNG tự bịa số liệu cho các mục còn ghi '[Cập nhật sau]' như học phí, đồng phục, thời gian học, nội quy — với các mục này hãy trả lời là thông tin đang được cập nhật. Luôn tự giới thiệu là trợ lý ảo AI của trường ngay từ câu chào đầu tiên, ví dụ: 'Chào bạn! Mình là trợ lý ảo AI hỗ trợ tư vấn tuyển sinh của trường THPT Nguyễn Khuyến.' Không giả vờ là con người thật."
 }
